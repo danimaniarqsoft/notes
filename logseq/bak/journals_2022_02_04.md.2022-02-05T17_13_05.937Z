@@ -1,0 +1,72 @@
+- Alternativas para Logseq [[Alternativas para Logseq]]
+	- [Roam Research](https://roamresearch.com/)
+- Cómo utilizar la propiedad `v-model` cuando se desarrolla un componente para VueJS en [[Guía para desarrollar componentes en VueJS]] #vuejs #vuejs-components
+	- Archivo **component.vue**
+	  
+	  ``` vue
+	  <template>
+	    <div class="form-group">
+	      <label class="form-control-label" :for="id"
+	        ><b>{{ label }}</b></label
+	      >
+	      <input 
+	        type="text" 
+	        class="form-control" 
+	        :placeholder="placeholder" 
+	        :id="id" 
+	        v-model="text" 
+	        :class="{ valid: valid, invalid: !valid }" />
+	    </div>
+	  </template>
+	   
+	  <script lang="ts" src="./input-text.component.ts"></script>
+	  ```
+	- Archivo **component.ts**
+	  
+	  ``` ts
+	  import Component from 'vue-class-component';
+	  import { Prop, Vue } from 'vue-property-decorator';
+	  import PropertyCommons from '../commons/property.model';
+	   
+	  import { mixins } from 'vue-class-component';
+	  @Component
+	  export default class InputTextComponent extends mixins(PropertyCommons) {
+	    @Prop({ required: true })
+	    public value!: string;
+	   
+	    get text(): string {
+	      return this.value;
+	    }
+	   
+	    set text(newValue: string) {
+	      this.$emit('input', newValue);
+	    }
+	  }
+	  ```
+- Cómo configurar una variable (state) para que se pueda guardar en el [[VueJS Store]]  #vuejs #vuextore
+	- Crear el archivo del Store en `'@/shared/config/store/my-store.ts`
+		- Definir `state`, `getters`, `mutations` y `actions`
+	- Configurar el nuevo Store en el archivo `config.ts`
+- Cómo leer y actualizar un valor en el [[VueJS Store]]
+	- leer una variable desde un Componente VueJs
+		- ``` ts
+		  this.$store.getters.[state-name];
+		  ```
+	- actualizar una variable en el store
+		- utilizando `commit` a través de la `mutation`
+		  ```ts
+		   this.store.commit('[mutation-method-state]', account);
+		  ```
+		- utilizando `dispatch` a través del `action` definido  
+		  ```ts
+		      this.$store.dispatch('[action-method-state]');
+		  ```
+	-
+- zen mode [[VS Code shortcuts]] #vscode #shortcuts
+	- `ctrl` +`K` `Z`
+- toggle sidebar [[VS Code shortcuts]] #vscode #shortcuts
+	- `ctrl` + `B`
+- toogle terminal [[VS Code shortcuts]] #vscode #shortcuts
+	- `ctrl` + `J`
+- rename a word [[VS Code shortcuts]]
+	- `cltrl` + `shift` + `L`

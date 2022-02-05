@@ -1,0 +1,41 @@
+- Cuales son las mejores apps para aprender ingles #ingles
+- Los mejores sitios para aprender a teclerar rapido #typing #teclear
+	- [monkeytype](https://monkeytype.com/)
+	- [keybr](https://www.keybr.com/)
+- Material para prepararse para un exámen técnico en diseño de sistemas #system-design
+	- Materiales en github [System Design Primer](https://github.com/donnemartin/system-design-primer)
+	- Libro recomendado [System DEsign Inteview](https://www.amazon.com.mx/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- Comando linux para ver la versión de un sistema Ubuntu #
+	- ``` sh
+	  lsb_release -a
+	  ```
+- Git merge squash [[Tareas Comúnes en GIt]] #git
+	- ``` sh
+	  git checkout master
+	  git merge --squash bugfix
+	  git commit
+	  ```
+- GIt para limpiar el espacio de trabajo [[Tareas Comúnes en GIt]] #git
+	- ``` sh
+	  #!/bin/bash
+	  # Undo changes to tracked files with:
+	  git reset HEAD --hard
+	  # Remove untracked files with:
+	  git clean -f
+	  # Remove untracked files and directories with:
+	  git clean -fd
+	  # Remove ignored and untracked files and directories
+	  git clean -fdx
+	  ```
+- Administrador de versiones en java #java-version #java-enviroment
+	- [jenv](https://www.jenv.be/)
+- Administrador de versiones en node #nvm
+	- [nvm](https://github.com/nvm-sh/nvm)
+- Instalar dependencia de driver de Oracle en un proyecto java #oracle #jdbc
+	- ``` sh
+	  mvn install:install-file -Dfile=ojdbc8.jar \
+	      -DgroupId=com.oracle.jdbc \
+	      -DartifactId=ojdbc8 \
+	      -Dversion=18.3.0.0 \
+	      -Dpackaging=jar
+	  ```
