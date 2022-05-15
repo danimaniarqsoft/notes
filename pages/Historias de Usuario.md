@@ -1,0 +1,4 @@
+- Las historias de usuario son importantes
+- Referencias
+	- [Cris RUA - HIstorias de Usuario](https://www.youtube.com/watch?v=ky6wFiF5vMk&t=147s)
+	-

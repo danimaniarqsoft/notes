@@ -1,0 +1,14 @@
+- [Objetivos semanales](https://docs.google.com/document/d/1HC4dbohuPmUN1ga7mJ06z02-9dnrSB_a71Dqd3OZpuc/edit#heading=h.6uo2szts4yvw)
+- [[Seguimiento SNI]]
+- [[Segumiento SALSA PEO]]
+	- [Estrategia general](https://docs.google.com/document/d/1_T69SSM1xU9wSBlaxnIGStAFuo4eohyfOIe45FLn2sM/edit#heading=h.w5qy8ujvde3n)
+	-
+- [[Seguimiento Becas]]
+- [[Seguimiento SNP]]
+- [[Seguimiento RENIECYT]]
+- [[Seguimiento CVU]]
+- [[Seguimiento Rizoma]]
+	- [[Proyecto Rizoma]]
+- [[Seguimiento Investigadoras e Investigadores por México]]
+- [Tablero de proyectos estrategicos](https://project.crip.conacyt.mx/project/direccion-de-arquitectura/timeline)
+- [Tablero de impedimentos](https://project.crip.conacyt.mx/project/tablero-de-impedimentos-arquitectura/timeline)

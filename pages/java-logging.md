@@ -1,0 +1,2 @@
+- Configuration for Spring boot [Spring boot configuration logging](https://www.baeldung.com/spring-boot-logging)
+	-

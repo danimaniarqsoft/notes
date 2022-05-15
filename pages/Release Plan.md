@@ -1,0 +1,1 @@
+- Es la visión a futuro que se tiene del proyecto, se realiza por medio del [[Inception]]

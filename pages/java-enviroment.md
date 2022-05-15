@@ -1,0 +1,16 @@
+- Tunning JVM #jvm #tunning
+	- Guía con los parámetros más importantes para JAVA
+		- [Baeldung JVM Parameters](https://www.baeldung.com/jvm-parameters)
+		- [JVM Parameters in java](https://javarevisited.blogspot.com/2011/11/hotspot-jvm-options-java-examples.html#axzz7NOaJ3lLc)
+		- [Try to avoid -XX:+UseGCLogFileRotation](https://dzone.com/articles/try-to-avoid-xxusegclogfilerotation)
+	- What is the maximum Heap Size of 32 bit or 64-bit JVM in Windows and Linux?
+		- Los procesadores de 32 bits (x86), pueden manejar hasta 4G
+			- Límite teórico es 4G
+		- Los procesadores de 64 bits (x64), pueden manejar hasta 16 Exabytes (16 milllones de Terabytes) aunque los sistemas operativos actualmente sólo pueden gestinar hasta 128 GB y los más avanzados hasta 512 GB
+		- Read more: https://javarevisited.blogspot.com/2013/04/what-is-maximum-heap-size-for-32-bit-64-JVM-Java-memory.html#ixzz7NSHdb8Au
+		- On most modern 32-bit Windows systems the maximum heap size will range from 1.4G to 1.6G. On 32-bit Solaris kernels the address space is limited to 2G. On 64-bit operating systems running the 32-bit VM, the max heap size can be higher, approaching 4G on many Solaris systems
+		- For 32-bit systems recommended to use 512 MB minimum and 1024 MB maximum, 64-bit systems should run 4096 MB minimum and 4096 MB maximum (Maximo and Control Desk 7.5) or 6144 MB minimum and 6144 MB maximum (Maximo and Control Desk 7.6). [Referencia de IBM](https://www.ibm.com/support/pages/understanding-memory-requirements-32-and-64-bit-systems)
+		- For 32-bit systems recommended to use 512 MB minimum and 1536 MB maximum, 64-bit systems should run 6144 MB minimum and 6144 MB maximum.
+		- [IBM mejores practicas](https://www.ibm.com/support/pages/best-practices-performance)
+	-
+	-
