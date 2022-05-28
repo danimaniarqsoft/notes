@@ -6,5 +6,3 @@
 - Guías de estudio para java [[Guia de estudio para java]]
 - Referencias para certificación
 	- ![java6-certification-guide.pdf](../assets/java6-certification-guide_1647208784257_0.pdf)
-- Streams
-	- [Comprehensive Guide to Java Streams](https://reflectoring.io/comprehensive-guide-to-java-streams/)
