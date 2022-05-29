@@ -16,7 +16,9 @@
 	  ```sh
 	  git stash pop
 	  ```
-- Git create new branch
-	- ```sh
+- Git branch
+	- create new branch
+	  ```sh
 	  git checkout -b <branch-name>
 	  ```
+	- create new branch from commit
