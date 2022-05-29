@@ -17,15 +17,15 @@
 	  git stash pop
 	  ```
 - Git branch
-	- create new branch
+	- create `new branch`
 	  ```sh
 	  git checkout -b <branch-name>
 	  ```
-	- create new branch from commit
+	- create `new branch from commit`
 	  ```sh
 	  git checkout -b <branch-name> <commit-sha>
 	  ```
-	- create new branch from Tag
+	- create `new branch from Tag`
 	  ```sh
 	  git checkout -b <branch-name> <tag-name>
 	  ```
