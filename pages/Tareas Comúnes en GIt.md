@@ -22,3 +22,6 @@
 	  git checkout -b <branch-name>
 	  ```
 	- create new branch from commit
+	  ```sh
+	  git checkout -b <branch-name> <commit-sha>
+	  ```
