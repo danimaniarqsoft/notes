@@ -1,0 +1,9 @@
+- [Roadmap para JAVA](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+- Administrador de versiones para java [[java-version]]
+- Configuración de ambiente para java [[java-enviroment]]
+- Configuración de bitácoras [[java-logging]]
+- Tutoriales de java [[Tutoriales de Java]]
+- Guías de estudio para java [[Guia de estudio para java]]
+- Referencias para certificación
+	- ![java6-certification-guide.pdf](../assets/java6-certification-guide_1647208784257_0.pdf)
+	-
