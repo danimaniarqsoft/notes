@@ -27,5 +27,5 @@
 	  ```
 	- create new branch from Tag
 	  ```sh
-	  git checkout -b <branch-name> <>
+	  git checkout -b <branch-name> <tag-name>
 	  ```
