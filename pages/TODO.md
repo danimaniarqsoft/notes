@@ -3,4 +3,6 @@
 - TODO Revisar el documento de campos con Haydee, Anita y SAM  para [[Proyecto Rizoma]]
 - TODO Revisar la estrategia del generador con SAM y Erik para [[Proyecto Rizoma]]
 - Crear el diagrama general de Arquitectura para Rizoma y SALSA para el [[Proyecto Rizoma]] y [[Proyecto SALSA]]
-- Revisar el plan de migración de sistemas
+- Revisar el plan de migración de los sistemas para el proyecto de [[Proyecto SALSA]]
+- TODO Crear el diagrama de Scrum Lite, p.176 The essentials of modern software engineering en [[Proyecto Practicopedia]]
+- TODO Revisar el modelo de `expediente-persona` con el equipo de SNI en [[Proyecto SNI]]
