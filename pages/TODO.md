@@ -1,2 +1,4 @@
 - DONE enviar lista de servicios de DAMCAD al área de Carolina
 - TODO revisar la propuesta de definición de prácticas en [[Proyecto Practicopedia]]
+- TODO Revisar la estrategia del generador con SAM y Erik para [[Proyecto Rizoma]]
+-
