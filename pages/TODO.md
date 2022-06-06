@@ -1,2 +1,2 @@
 - DONE enviar lista de servicios de DAMCAD al área de Carolina
-- [[Proyecto pra]]
+- TODO revisar la propuesta de definición de prácticas en [[Proyecto Practicopedia]]
