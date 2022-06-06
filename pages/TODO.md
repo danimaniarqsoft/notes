@@ -1,6 +1,6 @@
 - DONE enviar lista de servicios de DAMCAD al área de Carolina
 - TODO revisar la propuesta de definición de prácticas en [[Proyecto Practicopedia]]
--
+- TODO Revisar el documento de campos con Haydee, Anita y SAM  para [[Proyecto Rizoma]]
 - TODO Revisar la estrategia del generador con SAM y Erik para [[Proyecto Rizoma]]
 - Crear el diagrama general de Arquitectura para Rizoma y SALSA para el [[Proyecto Rizoma]] y [[Proyecto SALSA]]
--
+- Revisar el plan de migración de sistemas
