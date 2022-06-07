@@ -15,3 +15,4 @@
 - Revisar el plan de migración de los sistemas para el proyecto de [[Proyecto SALSA]]
 - TODO Crear el diagrama de Scrum Lite, p.176 The essentials of modern software engineering en [[Proyecto Practicopedia]]
 - TODO Revisar el modelo de `expediente-persona` con el equipo de SNI en [[Proyecto SNI]]
+- Actualizar datos fiscales para GNP en [GNP MAIL](https://mail.google.com/mail/u/0/#inbox/FMfcgzGpGKjbKHRVDFljJFgRmshWtZdH)
