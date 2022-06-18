@@ -1,0 +1,2 @@
+- actualizar sistema operativo ubuntu
+	-
