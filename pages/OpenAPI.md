@@ -1,0 +1,2 @@
+- npx @openapitools/openapi-generator-cli generate -i https://api.test.crip.conacyt.mx/ws/sharing/357f214c-ea8a-4377-a840-7a2f1a0b9cde\?content\=true -g typescript-axios -o src/main/webapp/app/shared/perfil-usuario
+-
