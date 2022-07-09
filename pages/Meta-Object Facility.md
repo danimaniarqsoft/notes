@@ -1,0 +1,1 @@
+- Is an [[Object Management Group]] standard for model-driven engineering. Its purpose is to provde
