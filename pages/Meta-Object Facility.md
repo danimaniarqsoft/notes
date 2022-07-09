@@ -1,1 +1,1 @@
-- Is an [[Object Management Group]] standard for model-driven engineering. Its purpose is to provde
+- Is an [[Object Management Group]] standard for model-driven engineering. Its purpose is to provide a type system for entities in the CORDBA archictecture and a aset of intrefaces through which those types can be created an manipulated.
