@@ -1,1 +1,2 @@
-- Revisar que el tipo de dato `Double` e `Integer` en el front end son el mismo valor de `number`
+- TODO Revisar que el tipo de dato `Double` e `Integer` en el front end son el mismo valor de `number`
+-
