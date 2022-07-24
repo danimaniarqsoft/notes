@@ -1,0 +1,1 @@
+- [Wired magazine](https://www.wired.com/)
