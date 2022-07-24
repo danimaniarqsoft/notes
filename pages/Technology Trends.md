@@ -1,1 +1,4 @@
-- [Wired magazine](https://www.wired.com/)
+- References
+	- [Wired magazine](https://www.wired.com/)
+- List of trends
+	- Low Code Platforms
