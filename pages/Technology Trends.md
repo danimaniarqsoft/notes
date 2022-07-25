@@ -4,3 +4,6 @@
 	- tech ex
 - List of trends
 	- Low Code Platforms and Low code development
+-
+- for review https://www.lifehack.org/articles/technology/10-must-read-tech-sites-stay-updated.html
+-
