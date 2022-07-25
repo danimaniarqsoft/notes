@@ -1,5 +1,6 @@
 - References
 	- [Wired magazine](https://www.wired.com/)
+	- [Techcrunch](https://techcrunch.com/)
 	-
 - List of trends
 	- Low Code Platforms and Low code development
