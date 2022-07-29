@@ -4,3 +4,6 @@
   db: proyectos
   user: proyectos.user.read
   pwd: proyectos.2022
+- trl6,
+- trl8
+- tlr9
