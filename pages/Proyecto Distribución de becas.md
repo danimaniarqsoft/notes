@@ -27,4 +27,9 @@
 	- con estos elementos que se pueden tener lo mejor que se pu
 - se ajusta la redacción del objetivo
 - sección nueva de antecedentes
-- trl
+- trl8, tenemos pilotajes, tenemos la experiencia,
+- citar el manual operativo y los lineamientos que no nos estén comentando,
+- actividades del equipo y alcances
+- ya está evaluado tecnológicamente,
+- vamos a colocar los elementos que se tienen que utilizar para otros elementos que se pueden tener
+-
