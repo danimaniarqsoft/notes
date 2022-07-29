@@ -7,3 +7,4 @@
 - trl6,
 - trl8
 - tlr9
+- tlr 8, se deberá de tener en un tema ded
