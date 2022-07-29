@@ -21,4 +21,10 @@
 	- trabajar de manera improvisadamente,
 	- no debemos de depender el OIC
 	- a nosotros nos toma una norma
-	-
+	- el oic se puede equivocar,
+	- articulo tal versión tal, del manual operativo de tal fecha,
+	- nos dice que es atrivbuación del responsable técnico ajustar el equipo de trabajo
+	- con estos elementos que se pueden tener lo mejor que se pu
+- se ajusta la redacción del objetivo
+- sección nueva de antecedentes
+- trl
