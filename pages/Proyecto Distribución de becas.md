@@ -8,4 +8,8 @@
 - trl8
 - tlr9
 - tlr 8, se deberá de tener en un tema ded
-- elk talento detectado, a rece que pueda quedarse o permanecer, al momento en que se cambie, estará atiendiendo, ajustar el talento, que se pueden tener con todos los elementos que se deben de tener en donde se pueden tener los elementos que se deben de utlizar los ewlement
+- elk talento detectado, a rece que pueda quedarse o permanecer, al momento en que se cambie, estará atiendiendo, ajustar el talento, que se pueden tener con todos los elementos que se deben de tener en donde se pueden tener los elementos que se deben de utlizar los elementos que se deben de  utilizar en otros elementos que se pueden tener en otros elementos que se deberán de tener
+- ajustar el equipo, ajustar las partidas,
+	- dar los nombres,
+	- dar el equipo inicial
+	- agregar el númeral tal del f03 y limientos aprobados, que se deberán de tener en el elemento que se deberá de tener los elementos que se deberán de ten
