@@ -33,3 +33,5 @@
 - ya está evaluado tecnológicamente,
 - vamos a colocar los elementos que se tienen que utilizar para otros elementos que se pueden tener
 - el títular no comentaban sobre los elementos que se deberán de tener los otros deberán de consolidar que es lo que se deberá de tener en otros elementos que se pueden tener los otros elementos que se deberán de tener aclaraod
+- todo esto se deberá de tener que es lo que se deberá de tener con Aidee para poder aperturar la plataforma que deberá de tener con todo esto
+-
