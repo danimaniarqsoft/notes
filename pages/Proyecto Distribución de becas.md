@@ -32,4 +32,4 @@
 - actividades del equipo y alcances
 - ya está evaluado tecnológicamente,
 - vamos a colocar los elementos que se tienen que utilizar para otros elementos que se pueden tener
--
+- el titular
