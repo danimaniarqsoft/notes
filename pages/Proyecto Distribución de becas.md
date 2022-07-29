@@ -16,4 +16,9 @@
 	- consultar los elementos que se tienen que utilizar el principal elemento que se deberán de tener
 	- tener la seguridad y la certeza que deberá de tener estos elementos que se deberán de tener que es lo que se está pasando
 	- tener certeza sobre los lineamientos del f003
-	- el responsable técnico deber
+	- el responsable técnico deberá de tener estos elementos que se deberán de saber que es lo que pasa.
+	- Manual operativo y el fondo
+	- trabajar de manera improvisadamente,
+	- no debemos de depender el OIC
+	- a nosotros nos toma una norma
+	-
