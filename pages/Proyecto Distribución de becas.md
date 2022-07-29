@@ -12,4 +12,8 @@
 - ajustar el equipo, ajustar las partidas,
 	- dar los nombres,
 	- dar el equipo inicial
-	- agregar el númeral tal del f03 y limientos aprobados, que se deberán de tener en el elemento que se deberá de tener los elementos que se deberán de ten
+	- agregar el númeral tal del f03 y limientos aprobados, que se deberán de tener en el elemento que se deberá de tener los elementos que se deberán de tener el consultado
+	- consultar los elementos que se tienen que utilizar el principal elemento que se deberán de tener
+	- tener la seguridad y la certeza que deberá de tener estos elementos que se deberán de tener que es lo que se está pasando
+	- tener certeza sobre los lineamientos del f003
+	- el responsable técnico deber
