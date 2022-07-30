@@ -1,0 +1,2 @@
+- [Metricas de sofware](https://www.geeksforgeeks.org/software-measurement-and-metrics/)
+-
