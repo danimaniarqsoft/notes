@@ -1,0 +1,3 @@
+- SNI
+	- TODO revisar el estado del proyecto del cálculo para [[Proyecto SNI]]
+- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
