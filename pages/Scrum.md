@@ -1,2 +1,3 @@
-- Metódo
--
+- Técnicas
+	- Delegation pocker
+		-
