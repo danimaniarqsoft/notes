@@ -14,7 +14,8 @@
 - Para el [[Proyecto SALSA]]
 	- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
 	- TODO plan de operación para salsa
-		- manuales de usuario
-		-
+		- TODO manuales de usuario
+		- TODO menú con opciones de configuración de la solicitud
+		- TODO capacitación al CST
 - Para el [[Proyecto Rizoma]]
 - Para el [[Migración de Sistemas]]
