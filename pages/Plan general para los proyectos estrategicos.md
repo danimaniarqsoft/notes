@@ -2,7 +2,9 @@
 	- CALCULO
 		- TODO revisar el estado del proyecto del cálculo para [[Proyecto SNI]]
 	- ACREDITACIONES
-		-
+	- INSTITUCIONES Y AUTORIDADES
+	- DATOS DE INVESTIGADOR
+	-
 - Para el [[Proyecto SALSA]]
 	- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
 - Para el [[Proyecto Rizoma]]
