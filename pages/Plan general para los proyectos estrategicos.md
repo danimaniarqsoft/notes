@@ -4,7 +4,13 @@
 	- ACREDITACIONES
 	- INSTITUCIONES Y AUTORIDADES
 	- DATOS DE INVESTIGADOR
-	-
+	- CATALOGO DE INSTITUCIONES
+	- FORMALIZACIÓN
+	- VIGENCIAS
+	- AYUDANTES
+	- INGRESO O PERMANENCIA
+	- VALIDACIÓN DOCUMENTAL
+	- REPORTES
 - Para el [[Proyecto SALSA]]
 	- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
 - Para el [[Proyecto Rizoma]]
