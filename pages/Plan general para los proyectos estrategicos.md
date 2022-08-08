@@ -13,5 +13,8 @@
 	- REPORTES
 - Para el [[Proyecto SALSA]]
 	- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
+	- TODO plan de operación para salsa
+		- manuales de usuario
+		-
 - Para el [[Proyecto Rizoma]]
 - Para el [[Migración de Sistemas]]
