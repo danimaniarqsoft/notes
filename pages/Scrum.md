@@ -1,3 +1,3 @@
 - Técnicas
 	- Delegation pocker
-		-
+		- [delegation pocker by cris rua](https://www.youtube.com/watch?v=MNNdyDFCq_s)
