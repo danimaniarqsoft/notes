@@ -1,3 +1,3 @@
 - Prácticas
-	- [Delegation poker in magament 3.0](https://management30.com/practice/delegation-poker/) #delegation
+	- [Delegation poker in magament 3.0](https://management30.com/practice/delegation-poker/) #delegation-poker
 		- [delegation pocker by cris rua](https://www.youtube.com/watch?v=MNNdyDFCq_s)
