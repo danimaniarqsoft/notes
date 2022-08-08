@@ -13,9 +13,11 @@
 	- REPORTES
 - Para el [[Proyecto SALSA]]
 	- TODO integración de los componentes de registro, evaluación, formalización y seguimiento de SALSA en [[Proyecto SALSA]]
+		- servicio de consulta de información
 	- TODO plan de operación para salsa
 		- TODO manuales de usuario
 		- TODO menú con opciones de configuración de la solicitud
 		- TODO capacitación al CST
+		- TODO flujo de atención
 - Para el [[Proyecto Rizoma]]
 - Para el [[Migración de Sistemas]]
