@@ -1,1 +1,4 @@
-- /link
+- [lista de talento con equipo de computo](https://docs.google.com/spreadsheets/d/1FwIBx3c4NQFROhFAg1anUSoj7eGesgk-RHvUnXTOQUA/edit#gid=92559672)
+- [lista de talento con proyecciones](https://docs.google.com/spreadsheets/d/1x7IeKfL1skHkuAnXwdpbQ7RuTsGgrR03cYSjYlcPdlI/edit#gid=481472698)
+- [lista de talento con sus tareas asignadas](https://docs.google.com/spreadsheets/d/1ykivfOSJql5xHUtiKslH7yvyE47hv_lUjJ15Hw20zSo/edit#gid=468329228)
+-
