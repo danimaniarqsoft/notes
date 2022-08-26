@@ -1,0 +1,3 @@
+- desarrollo: http://172.23.23.67:5601/app/kibana
+- qa: http://172.23.33.114:5601/app/kibana#/discover?_g=()
+- prod: http://172.23.13.22:5601/
