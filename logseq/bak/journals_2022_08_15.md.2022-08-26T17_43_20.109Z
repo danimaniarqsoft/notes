@@ -1,0 +1,9 @@
+- tutoriales online sobre [[OAUTH 2.0]]
+	- [playground con los cuatro flujos](https://www.oauth.com/playground/)
+- infraestructura de SALSA [[Proyecto SALSA]]
+	- http://172.23.23.67:5601/app/logtrail
+	- http://172.23.13.32:8001/dashboard
+	- http://172.23.13.32:8002/dashboard
+	- http://172.23.13.32:8003/dashboard
+- [Kibana](http://172.23.23.67:5601/app/kibana#/home?_g=()) #kibana #monitoring #log
+-
