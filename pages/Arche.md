@@ -2,8 +2,19 @@
 - Actividades
 	- Tenemos 5 principales componentes
 		- layout
-			-
+			- Container
+			- Section
 		- Data
+			- Data provider
+			- Repeater
+			- Table
+			- Dynamic Filter
+			- DateRange
 		- Basic
+			- Headline
+			- Paragraph
+			- Button
+			- Tag
+			-
 		- Form
 		- Chart
