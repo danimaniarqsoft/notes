@@ -2,4 +2,9 @@
 	- [Types of components](https://docs.google.com/spreadsheets/d/1BpK7hu2-D2eSQMohbON8NWggJwk7TSYPyNoUUPUT0Hw/edit#gid=0)
 	-
 - Bitácora
-	- I aggregate all the componente in
+	- I aggregate all the type of components
+	- I aggregate some properties
+		- I aggregate some actions
+	- To do
+		- I must continue with the actions
+			- https://testsss.budibase.app/builder/app/app_dev_testsss_5e96233eab0049398e88a88ca070c259/design/screen_035c14a3b3be429fbb2a4b83dcc514f5/components/cb8882d197210405b967fc08bbbc3f1f3/
