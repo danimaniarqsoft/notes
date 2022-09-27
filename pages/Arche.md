@@ -15,6 +15,6 @@
 			- Paragraph
 			- Button
 			- Tag
-			-
+			- Card
 		- Form
 		- Chart
