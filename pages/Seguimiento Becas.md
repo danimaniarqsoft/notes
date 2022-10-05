@@ -1,9 +1,9 @@
 - mujeres indigenas
-	- se espera que sea para el 17 de octubre
+	- se espera que sea para el 17 el 22 de octubre
 	- TODO se le deberá de solicitar a ignacio las combinaciones de los apoyos de la convocatoria, que al parecer son sólo tres
 	- solicitar que nos puedan compartir
 - Para la de discapacidad
-	- se estima liberar para el 24 de octubre
+	- se estima liberar para el 24 poner la del 28 de octubre
 	- está solicitando el documento Constancia de discapacidad
 	- TODO solicitar la plantilla de solicitud
-	- se requiere dos para poder adecuar
+	- se requiere dos semanas y media
