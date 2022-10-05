@@ -1,5 +1,6 @@
 - La plantillla para las dos se mandó el 22 de septiembre
   id:: 633dfe0b-7b06-43ec-bb93-f98e7dbf853f
+- ![image.png](../assets/image_1665007505296_0.png){:height 379, :width 696}
 - mujeres indigenas
 	- se espera que sea para el 17 el 22 de octubre
 	- TODO se le deberá de solicitar a ignacio las combinaciones de los apoyos de la convocatoria, que al parecer son sólo tres
@@ -9,4 +10,4 @@
 	- está solicitando el documento Constancia de discapacidad
 	- TODO solicitar la plantilla de solicitud
 	- se requiere dos semanas y media
-- ![image.png](../assets/image_1665007505296_0.png)
+-
