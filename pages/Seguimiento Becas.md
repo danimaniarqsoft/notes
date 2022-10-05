@@ -6,3 +6,4 @@
 	- se estima liberar para el 24 de octubre
 	- está solicitando el documento Constancia de discapacidad
 	- TODO solicitar la plantilla de solicitud
+	- se requiere dos para poder adecuar
