@@ -2,5 +2,6 @@
 	- se espera que sea para el 17 de octubre
 	- TODO se le deberá de solicitar a ignacio las combinaciones de los apoyos de la convocatoria, que al parecer son sólo tres
 - Para la de discapacidad
+	- se estima liberar para el
 	- está solicitando el documento Constancia de discapacidad
 	- TODO solicitar la plantilla de solicitud
