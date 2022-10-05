@@ -1,3 +1,3 @@
 - mujeres indigenas
 	- se espera que sea para el 17 de octubre
-	- se le deberá de solicitar a ignacio
+	- TODO se le deberá de solicitar a ignacio las combinaciones de los apoyos
