@@ -12,3 +12,5 @@
 	- se requiere dos semanas y media
 -
 - En la convocatoria de maternidad, están solicitando anexo 1 y visa
+-
+- cvu rt, id, clave, nombre del documento,
