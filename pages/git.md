@@ -1,2 +1,3 @@
 - git use sha-1 algorithm, it is impossible to have two equals hashes.
-- there is a new command for checkout, it is switch
+- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
+-
