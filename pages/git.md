@@ -1,1 +1,2 @@
-- git
+- git use sha-1 algorithm, it is impossible to have two equals hashes.
+-
