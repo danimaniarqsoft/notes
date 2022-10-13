@@ -41,7 +41,8 @@
 		- Second way
 			- 1. `git mv old-name-file.txt new-name-file.txt`
 - ## git reset
-	- move the current HEAD and branch to a specific commit
+	- moves the current HEAD and branch to a specific commit
+	- moves the current branch, and optionally copies data from the Repository to the other areas
 	- ![image.png](../assets/image_1665694237416_0.png)
 	-
 	- `git reset --hard`
