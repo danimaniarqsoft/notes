@@ -40,3 +40,5 @@
 			  3. `git add old-name-file.txt`
 		- Second way
 			- 1. `git mv old-name-file.txt new-name-file.txt`
+- ## git reset
+	-
