@@ -6,6 +6,6 @@
 - The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 - Never rebase shared commits
 - Forks and pull request
-	- both area social features, not area part of git. Each provider, like git
+	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
 	- The concept of upstream
 		- ![image.png](../assets/image_1665652873402_0.png)
