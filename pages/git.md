@@ -3,4 +3,4 @@
 - there is two kind of commands on git `plumbing commands` and `porcelain commands`
 	- The plumbing commans are lower-level commands
 	- The porcelain commands are friendly commands
-- The commands of git featch and git merge
+- The sequence of commands of `git fetch` and `git merge` are both in `git pull`
