@@ -21,6 +21,6 @@
 - ## git diff
 	- `git diff` compare the files between the working area and the index
 		- ![image.png](../assets/image_1665656492499_0.png)
-	- git diff --cached compare content between index and repository
+	- `git diff --cached` compare content between index and repository
 		- ![image.png](../assets/image_1665656653664_0.png)
 		-
