@@ -10,4 +10,5 @@
 	- The concept of upstream
 		- ![image.png](../assets/image_1665652873402_0.png)
 - The four areas of git
+	- Stash
 	-
