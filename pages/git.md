@@ -49,7 +49,7 @@
 	- ![image.png](../assets/image_1665694237416_0.png)
 	-
 	- `git reset --hard`
-		- this
+		- > this is used for clean the working area with `git reset --hard HEAD`
 		- ![image.png](../assets/image_1665694342527_0.png)
 	- `git reset --mix` this is the default option
 		- > this is used for unstagged files with the command `git reset HEAD`
