@@ -25,4 +25,5 @@
 		- ![image.png](../assets/image_1665656653664_0.png)
 - ## git checkout
 	- when we checkout a branch with `git checkout branch-name` command the next things happend
-		- 1. the HEAD point at bran
+		- 1. the `HEAD` points at branch-name or commit hash
+		  2.the
