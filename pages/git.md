@@ -61,8 +61,10 @@
 		- ![image.png](../assets/image_1665694489467_0.png)
 - ## git stash
 	- this command copy all the data into de index and the working area ant put it into the stash area
-	- git stash
-	- git stash --include-untracked
+	- ![image.png](../assets/image_1665696855477_0.png)
+	- Uses
+		- `git stash`
+		- `git stash --include-untracked` this is the best for most cases
 	-
 - ## Commands that move brances
 	- commit
