@@ -31,6 +31,7 @@
 - ## git rm
 	- `git rm --cached <file-name>` remove file from index but no from working area
 		- this is oppositive of `git add <files>`
+		- other option is `git reset HEAD <files>`
 	- `git rm <file-name>` remove the file from index and the working area
 - ## git mv
 	- there are two ways
