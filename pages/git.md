@@ -36,7 +36,7 @@
 	- there are two ways
 		- First way
 			- 1. `mv old-name-file.tx new-name-file.txt`
-			  2. `git add new-name.-filetx`
-			  3. `git add old-name-file.tx`
+			  2. `git add new-name.-filet.txt`
+			  3. `git add old-name-file.txt`
 		- Second way
-			- 1. mv old-name-file.txt new-name-file.txt
+			- 1. `git mv old-name-file.txt new-name-file.txt`
