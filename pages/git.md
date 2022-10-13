@@ -44,7 +44,7 @@
 	- moves the current HEAD and branch to a specific commit
 	- moves the current branch, and optionally copies data from the Repository to the other areas
 	- ### uses
-		- this command is used for drop
+		- this command is used for rever
 	- ![image.png](../assets/image_1665694237416_0.png)
 	-
 	- `git reset --hard`
