@@ -28,4 +28,4 @@
 		- 1. the `HEAD` points at branch-name or commit hash
 		  2. The repository files copy into the index and the working area
 		- ![image.png](../assets/image_1665686920215_0.png)
-- ## git reset
+- ## git reset HEAD file
