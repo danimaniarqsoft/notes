@@ -44,8 +44,10 @@
 	- move the current HEAD and branch to a specific commit
 	- ![image.png](../assets/image_1665694237416_0.png)
 	-
-	- git reset --hard
+	- `git reset --hard`
+		- ![image.png](../assets/image_1665694342527_0.png)
 	- git reset --mix
+		-
 	-
 - ## Commands that move brances
 	- commit
