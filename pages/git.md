@@ -19,5 +19,7 @@
 	- >How does this command change the repository?
 	-
 - ## git diff
-	- compare the files between the working area and the index
+	- `git diff` compare the files between the working area and the index
 		- ![image.png](../assets/image_1665656492499_0.png)
+	- git diff --cached compare content between index and repository
+		-
