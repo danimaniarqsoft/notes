@@ -34,6 +34,6 @@
 		-
 - ## Rename files
 	- there are two ways
-		- 1. mv old-file.tx new-name-file.tx
-		  2. git add new-name.-filetx
-		  3. git add old-
+		- 1. `mv old-name-file.tx new-name-file.tx`
+		  2. `git add new-name.-filetx`
+		  3. `git add old-name-file.tx`
