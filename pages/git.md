@@ -60,6 +60,7 @@
 	- `git reset --soft`
 		- ![image.png](../assets/image_1665694489467_0.png)
 - ## git stash
+	- this command copy all the data into de index and the working area ant put it into the stash area
 	- git stash
 	- git stash --include-untracked
 	-
