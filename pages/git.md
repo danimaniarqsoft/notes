@@ -5,3 +5,4 @@
 	- The porcelain commands are friendly commands
 - The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 - Never rebase shared commits
+-
