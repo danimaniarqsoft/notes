@@ -32,4 +32,6 @@
 	- `git rm --cached <file-name>` remove file from index but no from working area
 		- this is oppositive of `git add <files>`
 		-
-	-
+- ## Rename files
+	- there are two ways
+		- 1. git add
