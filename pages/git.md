@@ -41,4 +41,10 @@
 		- Second way
 			- 1. `git mv old-name-file.txt new-name-file.txt`
 - ## git reset
-	-
+-
+- Commands that move brances
+	- commit
+	- merge
+	- rebase
+	- pull
+	- ...
