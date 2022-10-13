@@ -26,4 +26,5 @@
 - ## git checkout
 	- when we checkout a branch with `git checkout branch-name` command the next things happend
 		- 1. the `HEAD` points at branch-name or commit hash
-		  2.the
+		  2. The repository files copy into the index and the working area
+		- ![image.png](../assets/image_1665686920215_0.png)
