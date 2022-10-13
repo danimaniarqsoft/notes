@@ -30,4 +30,5 @@
 		- ![image.png](../assets/image_1665686920215_0.png)
 - ## git rm
 	- `git rm --cached <file-name>` remove file from index but no from working area
+		- this is oppositive of git add <files>
 	-
