@@ -46,8 +46,8 @@
 	-
 	- `git reset --hard`
 		- ![image.png](../assets/image_1665694342527_0.png)
-	- git reset --mix
-		-
+	- `git reset --mix`
+		- ![image.png](../assets/image_1665694378198_0.png)
 	-
 - ## Commands that move brances
 	- commit
