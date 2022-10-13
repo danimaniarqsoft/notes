@@ -24,4 +24,5 @@
 	- `git diff --cached` compare content between index and repository
 		- ![image.png](../assets/image_1665656653664_0.png)
 - ## git checkout
-	- whe
+	- when we checkout a branch with `git checkout branch-name` command the next things happend
+		- 1. the HEAD point at bran
