@@ -34,4 +34,4 @@
 		-
 - ## Rename files
 	- there are two ways
-		- 1. git add
+		- 1. git mv
