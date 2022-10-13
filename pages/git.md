@@ -5,5 +5,6 @@
 	- The porcelain commands are friendly commands
 - The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 - Never rebase shared commits
-- The concept of upstream
-	- ![image.png](../assets/image_1665652873402_0.png)
+- Forks and pull request
+	- The concept of upstream
+		- ![image.png](../assets/image_1665652873402_0.png)
