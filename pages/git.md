@@ -9,4 +9,5 @@
 	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
 	- The concept of upstream
 		- ![image.png](../assets/image_1665652873402_0.png)
--
+- The four areas of git
+	-
