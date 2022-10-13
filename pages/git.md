@@ -41,7 +41,9 @@
 		- Second way
 			- 1. `git mv old-name-file.txt new-name-file.txt`
 - ## git reset
+	- ![image.png](../assets/image_1665694237416_0.png)
 	- move the current HEAD and branch to a specific commit
+	-
 - ## Commands that move brances
 	- commit
 	- merge
