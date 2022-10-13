@@ -29,4 +29,5 @@
 		  2. The repository files copy into the index and the working area
 		- ![image.png](../assets/image_1665686920215_0.png)
 - ## git rm
-	- git rm --cached
+	- `git rm --cached <file-name>` remove file from index but no from working area
+	-
