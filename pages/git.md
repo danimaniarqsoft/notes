@@ -41,7 +41,7 @@
 		- Second way
 			- 1. `git mv old-name-file.txt new-name-file.txt`
 - ## git reset
--
+	- move the current HEAD and branch to a specific commit
 - ## Commands that move brances
 	- commit
 	- merge
