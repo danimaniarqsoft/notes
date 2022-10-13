@@ -18,4 +18,5 @@
 	- > how does this command move information across the Four Areas?
 	- >How does this command change the repository?
 	-
--
+- ## git diff
+	-
