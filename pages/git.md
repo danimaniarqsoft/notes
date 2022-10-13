@@ -14,6 +14,8 @@
 	- Working area
 	- Index
 	- Repository
-- ### The two questions
-	- > how does this command move information across the Four Areas
+- ### The two questions to understand what a command does
+	- > how does this command move information across the Four Areas?
+	- >How does this command change the repository?
+	-
 -
