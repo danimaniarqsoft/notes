@@ -60,6 +60,8 @@
 	- `git reset --soft`
 		- ![image.png](../assets/image_1665694489467_0.png)
 - ## git stash
+	- git stash
+	- git stash --include-untracked
 	-
 - ## Commands that move brances
 	- commit
