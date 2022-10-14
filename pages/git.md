@@ -80,8 +80,9 @@
 		- MERGE_MODE
 		- MERGE_MSG
 - ## git switch
-	- moving to a different branch
+	- > It is used for moving to a different branch
 - ## git restore
+	- > I is used for recovering an earlier commit
 -
 - ## Commands that move brances
 	- commit
