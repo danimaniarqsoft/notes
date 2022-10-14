@@ -73,6 +73,8 @@
 			- `git stash apply`
 		- for clean the current stash
 			- `git stash clear`
+- ## git merge
+	- It is used for merge two branches
 	-
 - ## Commands that move brances
 	- commit
@@ -81,3 +83,4 @@
 	- pull
 	- reset
 	- ...
+-
