@@ -60,6 +60,7 @@
 	- `git reset --soft`
 		- ![image.png](../assets/image_1665694489467_0.png)
 - ## git stash
+	- It is like a clip board of the project
 	- this command copy all the data into de index and the working area ant put it into the stash area and copy all the data into the Repository into the index and the workiing area.
 	- ![image.png](../assets/image_1665696855477_0.png)
 	- ![image.png](../assets/image_1665697009659_0.png)
