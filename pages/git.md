@@ -79,7 +79,10 @@
 		- MERGE_HEAD
 		- MERGE_MODE
 		- MERGE_MSG
-	-
+- ## git switch
+	- moving to a different branch
+- ## git restore
+-
 - ## Commands that move brances
 	- commit
 	- merge
