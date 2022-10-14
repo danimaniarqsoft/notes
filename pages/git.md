@@ -65,8 +65,11 @@
 	- ![image.png](../assets/image_1665697009659_0.png)
 	-
 	- Uses
-		- `git stash`
-		- `git stash --include-untracked` this is the best for most cases
+		- for store into the stash
+			- `git stash`
+			- `git stash --include-untracked` this is the best for most cases
+		- for restore the stash into the working area and the
+			- git
 	-
 - ## Commands that move brances
 	- commit
