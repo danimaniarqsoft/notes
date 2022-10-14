@@ -74,7 +74,7 @@
 		- for clean the current stash
 			- `git stash clear`
 - ## git merge
-	- It is used for merge two branches
+	- if exist a conflict, git add three files in
 	-
 - ## Commands that move brances
 	- commit
