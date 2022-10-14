@@ -70,7 +70,8 @@
 			- `git stash --include-untracked` this is the best for most cases
 		- for restore the stash into the working area and the
 			- `git stash apply`
-			-
+		- for clean the current stash
+			- `git stash clear`
 	-
 - ## Commands that move brances
 	- commit
