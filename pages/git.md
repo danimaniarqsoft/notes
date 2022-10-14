@@ -74,7 +74,11 @@
 		- for clean the current stash
 			- `git stash clear`
 - ## git merge
-	- if exist a conflict, git add three files in
+	- if exist a conflict, git add three files in order to track the merge flow
+		- ![image.png](../assets/image_1665722920057_0.png)
+		- MERGE_HEAD
+		- MERGE_MODE
+		- MERGE_MSG
 	-
 - ## Commands that move brances
 	- commit
