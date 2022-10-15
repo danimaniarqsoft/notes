@@ -20,6 +20,7 @@
 	- Index
 	- Repository
 - # Commands for change the history
+	- ((634af202-7c53-4440-abf1-73dfa73f7bbb))
 	-
 - ### The two questions to understand what a command does
 	- > how does this command move information across the Four Areas?
@@ -104,6 +105,8 @@
 	- examples
 		- `git blame <path/to/file>`
 - ## git commit --amend
+  id:: 634af202-7c53-4440-abf1-73dfa73f7bbb
 	- > change the latest commit, we can add files and then ammend
 	- usages
 		- `git commit --amend`
+-
