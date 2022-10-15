@@ -126,7 +126,8 @@
 		- > It is the log of the commands executed in the log repository. With this command is possible to recovery from mistakes
 		- uses
 			- `git reflog HEAD`
-			-
+				- after we can use `git show HEAD@{25}` for example to see the references
+				-
 		-
 		-
 	-
