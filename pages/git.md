@@ -92,7 +92,7 @@
 		- `git show HEAD^`
 		- `git show HEAD~1`
 - ## git blame
-	-
+	- >
 - ## Commands that move brances
 	- commit
 	- merge
