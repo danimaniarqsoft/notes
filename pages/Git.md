@@ -112,6 +112,8 @@
 - ## git rebase
 	- > It is used for merge changes in a different way
 	- `git rebase -i` interactive mode
+		- 1. select the the order and the commands to be executed for the rebase command
+		  2.
 		- examples:
 			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
 			-
