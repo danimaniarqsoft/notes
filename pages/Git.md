@@ -102,4 +102,6 @@
 	- examples
 		- `git blame <path/to/file>`
 - ## git commit --amend
-	- > change the latest commit, we can add files
+	- > change the latest commit, we can add files and then ammend
+	- usages
+		- `git commit --amend`
