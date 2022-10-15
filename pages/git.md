@@ -87,6 +87,8 @@
 	- `git log --graph --decorate --oneline`
 - ## git show
 	- `git show <reference>`
+	- examples
+		- git show HEAD
 - ## Commands that move brances
 	- commit
 	- merge
