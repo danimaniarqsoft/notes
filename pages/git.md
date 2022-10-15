@@ -1,9 +1,10 @@
 - {{renderer :tocgen}}
-- git use sha-1 algorithm, it is impossible to have two equals hashes.
-- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
-- there is two kind of commands on git `plumbing commands` and `porcelain commands`
-	- The plumbing commans are lower-level commands
-	- The porcelain commands are friendly commands
+- # Introduction
+	- git use sha-1 algorithm, it is impossible to have two equals hashes.
+	- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
+	- there is two kind of commands on git `plumbing commands` and `porcelain commands`
+		- The plumbing commans are lower-level commands
+		- The porcelain commands are friendly commands
 - The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 - Never rebase shared commits
 - Forks and pull request
