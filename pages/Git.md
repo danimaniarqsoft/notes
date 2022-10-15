@@ -113,7 +113,8 @@
 	- > It is used for merge changes in a different way
 	- `git rebase -i` interactive mode
 		- examples:
-			- git rebase -i origin/master
+			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
+			-
 		-
 	-
 -
