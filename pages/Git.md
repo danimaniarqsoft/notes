@@ -155,7 +155,8 @@
 	- Distribution model
 		- Peer to peer model
 		  ![image.png](../assets/image_1665868360880_0.png)
-		-
+		- Blessed model
+		  ![image.png](../assets/image_1665868454825_0.png)
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
