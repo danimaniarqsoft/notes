@@ -114,7 +114,8 @@
 	- `git rebase -i` interactive mode
 		- ![image.png](../assets/image_1665857725320_0.png)
 		- 1. select excecution program order of the commits
-		  2.
+		  2.execute the rebasing
+		-
 		- examples:
 			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
 			-
