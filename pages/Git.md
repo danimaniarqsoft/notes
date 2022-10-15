@@ -1,5 +1,6 @@
 - {{renderer :tocgen}}
 - # Introduction
+  id:: 634ae593-a3d0-416e-b4ef-3d160bc6b404
 	- git use sha-1 algorithm, it is impossible to have two equals hashes.
 	- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
 	- there is two kind of commands on git `plumbing commands` and `porcelain commands`
@@ -8,7 +9,7 @@
 	- The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 	- Never rebase shared commits
 	-
-- # Forks and pull request
+- # Forks and pull request ((634ae593-a3d0-416e-b4ef-3d160bc6b404))
   id:: 634acaae-da74-4e68-807f-2a68c2634baa
 	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
 	- The concept of upstream
