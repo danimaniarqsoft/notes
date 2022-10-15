@@ -111,7 +111,9 @@
 		- `git commit --amend`
 - ## git rebase
 	- > It is used for merge changes in a different way
-	- Usages
-		- git rebase -i
+	- `git rebase -i` interactive mode
+		- examples:
+			- git rebase -i origin/master
+		-
 	-
 -
