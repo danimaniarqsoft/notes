@@ -176,6 +176,8 @@
 		-
 		-
 	- ## Constraints
+		- rebase, do not merge / merge, do not rebase
+		- only developer x ca do y on branch z
 		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
