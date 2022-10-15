@@ -138,4 +138,6 @@
 		-
 		-
 	-
--
+- ## git filter-branch
+	- > It is used for Rewriting large chunks of history
+	-
