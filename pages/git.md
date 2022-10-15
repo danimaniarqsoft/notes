@@ -86,13 +86,13 @@
 - ## git log
 	- `git log --graph --decorate --oneline`
 - ## git show
-	- > It is used for
+	- > It is used for show the result of the commit
 	- `git show <reference>`
 	- examples
 		- `git show HEAD^`
 		- `git show HEAD~1`
-		-
-		-
+- ## git blame
+	-
 - ## Commands that move brances
 	- commit
 	- merge
