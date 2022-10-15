@@ -171,7 +171,8 @@
 			- each commit in the branch might be working or it might be broken
 		- The integration branch
 		- The release branch
-		- The feature branch
+		- The feature branch or topic branch
+		-
 		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
