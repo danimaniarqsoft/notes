@@ -138,7 +138,7 @@
 		-
 		-
 	-
-- ## git filter-branch
+- ## git filter-repo
 	- > It is used for Rewriting large chunks of history
 	- ((634b0f41-b72b-4444-bdf2-8783c13c433f))
 		-
