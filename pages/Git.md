@@ -179,7 +179,8 @@
 		- rebase, do not merge / merge, do not rebase
 		- only developer x ca do y on branch z
 		- Do not push to a red build. Here, we can use HOOK in order to add this constraint
-		- Squa
+		- Squash a feature to a single commit before you merge it to master
+		-
 		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
