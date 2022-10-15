@@ -95,6 +95,7 @@
 	- > It is used for show who, when and what modifies a file
 	- examples
 		- `git blame <path/to/file>`
+	-
 - ## Commands that move brances
 	- commit
 	- merge
