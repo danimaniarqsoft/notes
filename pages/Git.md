@@ -112,6 +112,7 @@
 - ## git rebase
 	- > It is used for merge changes in a different way
 	- `git rebase -i` interactive mode
+		- ![image.png](../assets/image_1665857725320_0.png)
 		- 1. select the the order and the commands to be executed for the rebase command
 		  2.
 		- examples:
