@@ -164,8 +164,8 @@
 		-
 	- ## Branching Model
 		- Stable branch
-			- stable version of the software, test, and functional code
-			-
+			- each commit is a stable version of the software
+			- every commit compile, pasted the test and so on
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
