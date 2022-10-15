@@ -7,7 +7,9 @@
 		- The porcelain commands are friendly commands
 	- The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 	- Never rebase shared commits
+	-
 - # Forks and pull request
+  id:: 634acaae-da74-4e68-807f-2a68c2634baa
 	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
 	- The concept of upstream
 		- ![image.png](../assets/image_1665652873402_0.png)
