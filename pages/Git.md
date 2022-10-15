@@ -146,7 +146,8 @@
 	-
 	- ![image.png](../assets/image_1665863085525_0.png)
 - ## git revert
-	- > It is used for delete changes into a specific commit without affecting the history, instate i
+	- > It is used for delete changes into a specific commit without affecting the history, instate it create a new commit
+	-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
