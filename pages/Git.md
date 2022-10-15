@@ -19,6 +19,8 @@
 	- Working area
 	- Index
 	- Repository
+- # Commands for change the history
+	-
 - ### The two questions to understand what a command does
 	- > how does this command move information across the Four Areas?
 	- >How does this command change the repository?
