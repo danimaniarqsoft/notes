@@ -172,6 +172,7 @@
 		- The integration branch
 		- The release branch
 		- The feature branch or topic branch
+		- The hotfix branch
 		-
 		-
 - # References
