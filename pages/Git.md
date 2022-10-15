@@ -9,7 +9,7 @@
 	- The sequence of commands of `git fetch` and `git merge` are both in `git pull`
 	- Never rebase shared commits
 	-
-- # Forks and pull request ((634ae593-a3d0-416e-b4ef-3d160bc6b404))
+- # Forks and pull request
   id:: 634acaae-da74-4e68-807f-2a68c2634baa
 	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
 	- The concept of upstream
