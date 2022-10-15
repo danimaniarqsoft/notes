@@ -180,7 +180,8 @@
 		- only developer x ca do y on branch z
 		- Do not push to a red build. Here, we can use HOOK in order to add this constraint
 		- Squash a feature to a single commit before you merge it to master
-		-
+	- ## Example of work flow
+		- ![image.png](../assets/image_1665871455369_0.png)
 		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
