@@ -86,6 +86,7 @@
 - ## git log
 	- `git log --graph --decorate --oneline`
 - ## git show
+	- > It is used for
 	- `git show <reference>`
 	- examples
 		- `git show HEAD^`
