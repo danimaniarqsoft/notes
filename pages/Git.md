@@ -111,6 +111,7 @@
 		- `git commit --amend`
 - ## git rebase
 	- > It is used for merge changes in a different way
+	- we can reordering commits, squashing
 	- `git rebase -i` interactive mode
 		- ![image.png](../assets/image_1665857725320_0.png)
 		- 1. select excecution program order of the commits
