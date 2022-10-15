@@ -20,7 +20,7 @@
 	- Index
 	- Repository
 - # Commands for change the history
-	- ((634af202-7c53-4440-abf1-73dfa73f7bbb))
+	- ((634af202-7c53-4440-abf1-73dfa73f7bbb)) just modify the current commit
 	-
 - ### The two questions to understand what a command does
 	- > how does this command move information across the Four Areas?
