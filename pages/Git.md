@@ -100,4 +100,3 @@
 		- > It is used for show who, when and what modifies a file
 		- examples
 			- `git blame <path/to/file>`
-- ((634aef2d-3b17-4c6d-92b2-058f8c379e45))
