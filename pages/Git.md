@@ -123,7 +123,7 @@
 			- ((634b08a7-4003-40f4-9850-db070cf1b007))
 		- undoing the rebase
 			- {{youtube https://www.youtube.com/watch?v=qP4i3S2hujc}}
-				- {{youtube-timestamp 110}}  how to undo a rebase
+				- {{youtube-timestamp 110}}  How to undo rebase
 				-
 				-
 				-
