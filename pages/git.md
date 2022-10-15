@@ -88,6 +88,7 @@
 - ## git show
 	- `git show <reference>`
 	- examples
+		- `git show HEAD^`
 		- git show HEAD
 - ## Commands that move brances
 	- commit
