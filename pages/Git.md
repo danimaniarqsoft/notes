@@ -139,13 +139,13 @@
 		-
 	-
 - ## git filter-repo
-	- background-color:: #978626
-	  > It is used for Rewriting large chunks of history
+	- > It is used for Rewriting large chunks of history
 	- ((634b18f3-e79c-4a13-b399-3b7d6813800c))
 	- Usages
 		- for delete a specific file use `git filter-repo --path <file-name> --invert-paths`
 	-
 	- ![image.png](../assets/image_1665863085525_0.png)
+- ## git
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
