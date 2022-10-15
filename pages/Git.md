@@ -169,6 +169,7 @@
 			- the code is working
 		- Unstable Branch
 			- each commit in the branch might be working or it might be broken
+		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
