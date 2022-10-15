@@ -116,10 +116,11 @@
 		- ![image.png](../assets/image_1665857725320_0.png)
 		- 1. select excecution program order of the commits
 		  2.execute the rebasing
-		-
 		- examples:
 			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
 			- `git rebase --continue` used after resolve a conflict in the execution of the rebase program
+		-
+		- Recovery hashes from interactive rebase
 			-
 			-
 		-
