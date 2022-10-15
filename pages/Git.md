@@ -109,4 +109,6 @@
 	- > change the latest commit, we can add files and then ammend
 	- usages
 		- `git commit --amend`
+- ## git rebase
+	-
 -
