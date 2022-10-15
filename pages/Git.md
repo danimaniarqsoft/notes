@@ -159,8 +159,9 @@
 		  ![image.png](../assets/image_1665868541286_0.png)
 		- Pull Request Model
 		  ![image.png](../assets/image_1665868923064_0.png)
-		- Dictator and Lieutenants Model
-			-
+		- Dictator and Lieutenants Mode
+		  ![image.png](../assets/image_1665869345448_0.png)
+		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
