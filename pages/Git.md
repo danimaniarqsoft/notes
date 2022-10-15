@@ -157,7 +157,7 @@
 		  ![image.png](../assets/image_1665868360880_0.png)
 		- Centralized model
 		  ![image.png](../assets/image_1665868541286_0.png)
-		-
+		- Pull Request Model
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
