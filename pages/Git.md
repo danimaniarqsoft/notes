@@ -123,7 +123,7 @@
 			- ((634b08a7-4003-40f4-9850-db070cf1b007))
 		- undoing the rebase
 			- {{youtube https://www.youtube.com/watch?v=qP4i3S2hujc}}
-			-
+				- how add
 	- ## git reflog
 	  id:: 634b08a7-4003-40f4-9850-db070cf1b007
 		- > It is the log of the commands executed in the log repository. With this command is possible to recovery from mistakes
