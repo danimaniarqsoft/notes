@@ -118,6 +118,8 @@
 		-
 		- examples:
 			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
+			- `git rebase --continue` used after resolve a conflict in the execution of the rebase program
+			-
 			-
 		-
 	-
