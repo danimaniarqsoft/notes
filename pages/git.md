@@ -96,4 +96,3 @@
 	- examples
 		- `git blame <path/to/file>`
 -
--
