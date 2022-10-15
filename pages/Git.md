@@ -152,7 +152,8 @@
 		- git revert <commit-hash>
 - # Git workflows patterns
 	- Three things to consider ![image.png](../assets/image_1665868034201_0.png)
-		-
+	- Distribution model
+		- Peer to peer model
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
