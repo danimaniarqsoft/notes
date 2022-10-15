@@ -150,6 +150,10 @@
 	- ![image.png](../assets/image_1665866987069_0.png)
 	- Usages
 		- git revert <commit-hash>
+- # Git workflows
+	- Three things to consider
+	- Three things ![image.png](../assets/image_1665868034201_0.png)
+		-
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
