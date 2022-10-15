@@ -142,10 +142,8 @@
 	- > It is used for Rewriting large chunks of history
 	- ((634b18f3-e79c-4a13-b399-3b7d6813800c))
 	- Usages
-		- for d`git filter-repo --path <file-name> --invert-paths`
-		-
-		-
-		-
+		- for delete a specific file use `git filter-repo --path <file-name> --invert-paths`
+	- _
 	- ![image.png](../assets/image_1665863085525_0.png)
 - # References
 	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
