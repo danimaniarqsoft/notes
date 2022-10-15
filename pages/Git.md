@@ -142,4 +142,5 @@
 	- > It is used for Rewriting large chunks of history
 	- ![image.png](../assets/image_1665863085525_0.png)
 - # References
+	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
 	-
