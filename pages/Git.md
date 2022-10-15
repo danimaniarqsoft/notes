@@ -150,7 +150,7 @@
 	- ![image.png](../assets/image_1665866987069_0.png)
 	- Usages
 		- git revert <commit-hash>
-- # Git workflows
+- # Git workflows patterns
 	- Three things to consider ![image.png](../assets/image_1665868034201_0.png)
 		-
 - # References
