@@ -83,7 +83,10 @@
 	- > It is used for moving to a different branch
 - ## git restore
 	- > I is used for recovering an earlier commit
--
+- ## git log
+	- `git log --graph --decorate --oneline`
+	-
+	-
 - ## Commands that move brances
 	- commit
 	- merge
