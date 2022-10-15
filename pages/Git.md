@@ -141,6 +141,8 @@
 - ## git filter-repo
 	- > It is used for Rewriting large chunks of history
 	- ((634b18f3-e79c-4a13-b399-3b7d6813800c))
+	- Usages
+		- for d`git filter-repo --path <file-name> --invert-paths`
 		-
 		-
 		-
