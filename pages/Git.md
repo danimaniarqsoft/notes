@@ -120,8 +120,11 @@
 			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
 			- `git rebase --continue` used after resolve a conflict in the execution of the rebase program
 		- Recovery hashes from interactive rebase
-			-
-				-
+			- ((634b08a7-4003-40f4-9850-db070cf1b007))
+	- ## git reflog
+	  id:: 634b08a7-4003-40f4-9850-db070cf1b007
+		- it is used for
+		-
 		-
 	-
 -
