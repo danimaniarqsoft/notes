@@ -23,81 +23,82 @@
 	- > how does this command move information across the Four Areas?
 	- >How does this command change the repository?
 - # Git commands
-	- ## git diff
-	  id:: 634acaae-4963-4dab-9ffe-4d46f06ee682
-		- `git diff` compare the files between the working area and the index
-			- ![image.png](../assets/image_1665656492499_0.png)
-		- `git diff --cached` compare content between index and repository
-			- ![image.png](../assets/image_1665656653664_0.png)
-	- ## git checkout
-		- when we checkout a branch with `git checkout branch-name` command the next things happend
-			- 1. the `HEAD` points at branch-name or commit hash
-			  2. The repository files copy into the index and the working area
-			- ![image.png](../assets/image_1665686920215_0.png)
-	- ## git rm
-		- `git rm --cached <file-name>` remove file from index but no from working area
-			- this is oppositive of `git add <files>`
-			- other option is `git reset HEAD <files>`
-		- `git rm <file-name>` remove the file from index and the working area
-	- ## git mv
-		- there are two ways
-			- First way
-				- 1. `mv old-name-file.tx new-name-file.txt`
-				  2. `git add new-name.-filet.txt`
-				  3. `git add old-name-file.txt`
-			- Second way
-				- 1. `git mv old-name-file.txt new-name-file.txt`
-	- ## git reset
-		- moves the current HEAD and branch to a specific commit
-		- moves the current branch, and optionally copies data from the Repository to the other areas
-			- --soft no copy nothing into index or working area
-			- --mix copy the repository data into the index (default)
-			- --hard copy data into index and working area
-		- ### uses
-			- this command is used for revert changes in the git history.
-		- ![image.png](../assets/image_1665694237416_0.png)
-		-
-		- `git reset --hard`
-			- > this is used for clean the working area with `git reset --hard HEAD`
-			- ![image.png](../assets/image_1665694342527_0.png)
-		- `git reset --mix` this is the default option
-			- > this is used for unstagged files with the command `git reset HEAD`
-			- ![image.png](../assets/image_1665694378198_0.png)
-		- `git reset --soft`
-			- ![image.png](../assets/image_1665694489467_0.png)
-	- ## git stash
-		- It is like a clip board of the project
-		- this command copy all the data into de index and the working area ant put it into the stash area and copy all the data into the Repository into the index and the workiing area.
-		- ![image.png](../assets/image_1665696855477_0.png)
-		- ![image.png](../assets/image_1665697009659_0.png)
-		-
-		- Uses
-			- for store into the stash
-				- `git stash`
-				- `git stash --include-untracked` this is the best for most cases
-			- for restore the stash into the working area and the
-				- `git stash apply`
-			- for clean the current stash
-				- `git stash clear`
-	- ## git merge
-		- if exist a conflict, git add three files in order to track the merge flow
-			- ![image.png](../assets/image_1665722920057_0.png)
-			- MERGE_HEAD
-			- MERGE_MODE
-			- MERGE_MSG
-	- ## git switch
-		- > It is used for moving to a different branch
-	- ## git restore
-		- > I is used for recovering an earlier commit
-	- ## git log
-		- `git log --graph --decorate --oneline`
-	- ## git show
-		- > It is used for show the result of the commit
-		- `git show <reference>`
-		- examples
-			- `git show HEAD^`
-			- `git show HEAD~1`
-	- ## git blame
-		- > It is used for show who, when and what modifies a file
-		- examples
-			- `git blame <path/to/file>`
+- ## git diff
+  id:: 634acaae-4963-4dab-9ffe-4d46f06ee682
+	- `git diff` compare the files between the working area and the index
+		- ![image.png](../assets/image_1665656492499_0.png)
+	- `git diff --cached` compare content between index and repository
+		- ![image.png](../assets/image_1665656653664_0.png)
+- ## git checkout
+	- when we checkout a branch with `git checkout branch-name` command the next things happend
+		- 1. the `HEAD` points at branch-name or commit hash
+		  2. The repository files copy into the index and the working area
+		- ![image.png](../assets/image_1665686920215_0.png)
+- ## git rm
+	- `git rm --cached <file-name>` remove file from index but no from working area
+		- this is oppositive of `git add <files>`
+		- other option is `git reset HEAD <files>`
+	- `git rm <file-name>` remove the file from index and the working area
+- ## git mv
+	- there are two ways
+		- First way
+			- 1. `mv old-name-file.tx new-name-file.txt`
+			  2. `git add new-name.-filet.txt`
+			  3. `git add old-name-file.txt`
+		- Second way
+			- 1. `git mv old-name-file.txt new-name-file.txt`
+- ## git reset
+	- moves the current HEAD and branch to a specific commit
+	- moves the current branch, and optionally copies data from the Repository to the other areas
+		- --soft no copy nothing into index or working area
+		- --mix copy the repository data into the index (default)
+		- --hard copy data into index and working area
+	- ### uses
+		- this command is used for revert changes in the git history.
+	- ![image.png](../assets/image_1665694237416_0.png)
+	-
+	- `git reset --hard`
+		- > this is used for clean the working area with `git reset --hard HEAD`
+		- ![image.png](../assets/image_1665694342527_0.png)
+	- `git reset --mix` this is the default option
+		- > this is used for unstagged files with the command `git reset HEAD`
+		- ![image.png](../assets/image_1665694378198_0.png)
+	- `git reset --soft`
+		- ![image.png](../assets/image_1665694489467_0.png)
+- ## git stash
+	- It is like a clip board of the project
+	- this command copy all the data into de index and the working area ant put it into the stash area and copy all the data into the Repository into the index and the workiing area.
+	- ![image.png](../assets/image_1665696855477_0.png)
+	- ![image.png](../assets/image_1665697009659_0.png)
+	-
+	- Uses
+		- for store into the stash
+			- `git stash`
+			- `git stash --include-untracked` this is the best for most cases
+		- for restore the stash into the working area and the
+			- `git stash apply`
+		- for clean the current stash
+			- `git stash clear`
+- ## git merge
+	- if exist a conflict, git add three files in order to track the merge flow
+		- ![image.png](../assets/image_1665722920057_0.png)
+		- MERGE_HEAD
+		- MERGE_MODE
+		- MERGE_MSG
+- ## git switch
+	- > It is used for moving to a different branch
+- ## git restore
+	- > I is used for recovering an earlier commit
+- ## git log
+	- `git log --graph --decorate --oneline`
+- ## git show
+	- > It is used for show the result of the commit
+	- `git show <reference>`
+	- examples
+		- `git show HEAD^`
+		- `git show HEAD~1`
+- ## git blame
+	- > It is used for show who, when and what modifies a file
+	- examples
+		- `git blame <path/to/file>`
+- ## git commit --amend
