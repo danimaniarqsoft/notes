@@ -86,7 +86,7 @@
 - ## git log
 	- `git log --graph --decorate --oneline`
 - ## git show
-	- git show <commit-hash || branch-name>
+	- `git show <reference>`
 - ## Commands that move brances
 	- commit
 	- merge
