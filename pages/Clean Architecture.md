@@ -107,7 +107,7 @@
 			- does something
 			- should modify state
 			- should not return a value
-			-
+			- exceptions is when create record (command) we must return the new ID (query)
 		- Query
 			- answer a question
 			- should not modify state
