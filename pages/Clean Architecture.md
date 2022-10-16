@@ -23,7 +23,12 @@
 	- Good Arquitecture
 	- simple
 	- understandable
-	-
+	- flexible
+	- emergent
+	- testable
+	- maintainable
+- What is Clean Architecture
+	- Architecture that is designed for the inhabitants of the arch
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
