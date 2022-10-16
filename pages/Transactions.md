@@ -1,4 +1,4 @@
-- What ACID stand for? #card
+- What **ACID** stand for? #card
 	- ACID is an acronym that refers to the set of 4 key properties that define a transaction: **Atomicity**, **Consistency**, **Isolation**, and **Durability**. If a database operation has these ACID properties, it can be called an ACID transaction, and data storage system that apply these operations are called transactional systems.
 - What **ACID** means? #card
 	- **A**tomicity
