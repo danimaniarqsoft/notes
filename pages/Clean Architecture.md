@@ -153,5 +153,6 @@
 				- Functional is generally more efficient than categorical cohesion organizing by component types
 		- ![image.png](../assets/image_1665949364100_0.png)
 - Microservices
+	-
 - Testable Architecture
 - Evolving the Architecture
