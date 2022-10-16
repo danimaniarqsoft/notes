@@ -53,6 +53,7 @@
 	- Common
 		- crosscutting concerns
 - ## Domain-centric Architecture
+	- ![image.png](../assets/image_1665900505040_0.png)
 	-
 - ## Application Layer
 - Commands and Queries
