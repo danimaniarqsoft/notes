@@ -1,1 +1,8 @@
+- Domain-centric Architecture
+- Application Layer
+- Commands and Queries
+- Functional Organization
+- Microservices
+- Testable Archite ture
+- Evolving the architecture
 -
