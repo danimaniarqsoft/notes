@@ -65,7 +65,7 @@
 			- ![image.png](../assets/image_1665903282469_0.png)
 		- Clean Architecture
 			- by [Uncle bot](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-			- it include the Ivar jacobsons BCE
+			- it include the Ivar jacobsons [BCE](https://magnus-k-karlsson.blogspot.com/2019/03/entity-control-boundary-ecb-pattern.html)
 			- ![image.png](../assets/image_1665903405217_0.png)
 			-
 		-
