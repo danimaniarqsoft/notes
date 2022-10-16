@@ -80,6 +80,9 @@
 			-
 		-
 - ## Application Layer
+	- Dependency inversion principle
+	- Pros and Con
+	-
 - Commands and Queries
 - Functional Organization
 - Microservices
