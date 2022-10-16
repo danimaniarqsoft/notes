@@ -184,6 +184,8 @@
 		- ![image.png](../assets/image_1665958882753_0.png)
 	- Acceptance Tests
 		- Verify functionality
-		- Lna
+		- Language of the business
+		- Criteria for completeness
+		- Full test are problematic
 		-
 - Evolving the Architecture
