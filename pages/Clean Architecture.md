@@ -34,6 +34,9 @@
 	- minimize cost
 	- maximize value
 	- maximize ROI
+	- focus o the essential
+	- build onliy what is necessary
+	- optimize for maintainability
 	-
 - Domain-centric Architecture
 - Application Layer
