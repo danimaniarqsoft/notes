@@ -3,5 +3,5 @@
 	- **C**onsistency
 	- **I**solation
 - What is a transaction? #card
-	- In the ciontext of databases and data storage systems, a **transaction** is any operation that is treated as a signle unit of work, which either completes fully or does not complete at all
+	- In the ciontext of databases and data storage systems, a **transaction** is any operation that is treated as a signle unit of work, which either completes fully or does not complete at all, and leaves the storage system in a consistent state. Example of a transaction is what occurs when you withdraw money from your bank account. Either
 -
