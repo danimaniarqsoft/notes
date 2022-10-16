@@ -148,7 +148,7 @@
 		- We can organize the folders of the project according to the components are used to build the software (models, views, controllers, etc) or we can organize the folders according to the use cases of the system (customers, products, vendors
 		- Example or folder organization of the same project
 			- ![image.png](../assets/image_1665948763929_0.png)
-			- Functional vs Categorical
+		- Functional vs Categorical
 - Microservices
 - Testable Architecture
 - Evolving the Architecture
