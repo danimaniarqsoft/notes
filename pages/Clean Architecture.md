@@ -39,9 +39,12 @@
 	- optimize for maintainability
 - Layers of the demo
 	- Presentation
-		-
+		- user interface
 	- Application
+		- use cases of the application
 	- Domain
+		- problem domain
+		- business domain
 	- Infraestructure
 	- Persistance
 	- Common
