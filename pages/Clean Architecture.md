@@ -147,8 +147,8 @@
 		- ((634c5a5e-1873-4e56-92ff-7de21f924ef3))
 		- We can organize the folders of the project according to the components are used to build the software (models, views, controllers, etc) or we can organize the folders according to the use cases of the system (customers, products, vendors
 		- Example or folder organization of the same project
-			- [[draws/2022-10-16-14-31-22.excalidraw]]
-	- Functional vs Categorical
+			- ![image.png](../assets/image_1665948763929_0.png)
+			- Functional vs Categorical
 - Microservices
 - Testable Architecture
 - Evolving the Architecture
