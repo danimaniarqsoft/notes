@@ -102,7 +102,17 @@
 		- requires extra thought
 		- IoC is counter-intuitive
 - Commands and Queries
-	- Command-query
+	- Command-query separation
+		- Command
+			- does something
+			- should modify state
+			- should not return a value
+		- Query
+			- answer a question
+			- should not modify state
+			-
+		-
+		-
 - Functional Organization
 - Microservices
 - Testable Architecture
