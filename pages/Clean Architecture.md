@@ -57,9 +57,10 @@
 		- focus on domain
 		- less coupling
 		- allows for DDD
-	- COns
+	- Cons
 		- change is difficult
-		- requires more tho
+		- requires more thought
+		- initial higher cost
 	- First of all, we need to know the differences between data base centric architectura and domain centric architecture 
 	  ![image.png](../assets/image_1665900505040_0.png)
 	- domain a use cases are essential
