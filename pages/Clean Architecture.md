@@ -181,4 +181,9 @@
 		- ![image.png](../assets/image_1665958753364_0.png)
 	-
 	- Test automation pyramid
+		- ![image.png](../assets/image_1665958882753_0.png)
+	- Acceptance Tests
+		- Verify functionality
+		- Lna
+		-
 - Evolving the Architecture
