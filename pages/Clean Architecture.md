@@ -125,7 +125,8 @@
 	- Three types of CQRS
 		- Single-database CQRS
 			- ![image.png](../assets/image_1665946087800_0.png)
-		-
+		- Two-database CQRS
+			-
 		-
 - Functional Organization
 - Microservices
