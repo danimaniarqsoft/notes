@@ -53,7 +53,8 @@
 	- Common
 		- crosscutting concerns
 - ## Domain-centric Architecture
-	- ![image.png](../assets/image_1665900505040_0.png)
+	- First of all, we need to know the differences between data base centric architectura and domain centric architecture 
+	  ![image.png](../assets/image_1665900505040_0.png)
 	-
 - ## Application Layer
 - Commands and Queries
