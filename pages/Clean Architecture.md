@@ -144,6 +144,7 @@
 		- Event sourcing costs
 - Functional Organization
 	- Screaming Architecture
+		-
 	- Functional vs Categorical
 - Microservices
 - Testable Architecture
