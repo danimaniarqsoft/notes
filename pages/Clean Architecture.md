@@ -85,6 +85,7 @@
 		- This is used for CRUD applications
 		- Not for domain driven architectures. The domain is not present
 	- Modern Four-layer Architecture
+		- ![image.png](../assets/image_1665942742549_0.png)
 		-
 	-
 - Commands and Queries
