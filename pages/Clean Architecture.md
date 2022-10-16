@@ -65,6 +65,7 @@
 			- ![image.png](../assets/image_1665903282469_0.png)
 		- Clean Architecture
 			- by [Uncle bot](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+			- it include the Ivar jacobsons BCE
 			- ![image.png](../assets/image_1665903405217_0.png)
 			-
 		-
