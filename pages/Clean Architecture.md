@@ -192,6 +192,6 @@
 		- Minimize Coded UI tests
 		- Smoke test instead
 		- Minimize manual tests
-		- Exploratory
+		- Exploratory test instead
 		-
 - Evolving the Architecture
