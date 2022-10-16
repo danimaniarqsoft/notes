@@ -158,7 +158,7 @@
 		- ![image.png](../assets/image_1665951780027_0.png)
 	- in old days we had
 		- ![image.png](../assets/image_1665951829705_0.png)
-		-
+		- ![image.png](../assets/image_1665951885009_0.png)
 	- What is microservices
 	- Pros and Cons
 - Testable Architecture
