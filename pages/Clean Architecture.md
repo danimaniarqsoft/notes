@@ -178,6 +178,7 @@
 - Testable Architecture
 	- Test-driven development
 		- ![image.png](../assets/image_1665958574243_0.png)
-		-
+		- ![image.png](../assets/image_1665958753364_0.png)
+	-
 	- Test automation pyramid
 - Evolving the Architecture
