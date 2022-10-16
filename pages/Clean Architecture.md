@@ -40,15 +40,15 @@
 - Layers of the demo
 	- Presentation -details
 		- user interface
-	- Application
+	- Application - essential
 		- use cases of the application
-	- Domain
+	- Domain - essential
 		- problem domain
 		- business domain
 	- Infraestructure
 		- interface into the operating system
 		- third party dependencies
-	- Persistance
+	- Persistance - detail
 		- interfaces to the persistence data
 	- Common
 		- crosscutting concerns
