@@ -4,6 +4,13 @@
 		- Enterprise Applications
 		- Agile Architecture
 		- Top 7 ideas
+- What is Software Architecture
+	- High level
+	- structure
+	- layers
+	- components
+	- relationships
+-
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
