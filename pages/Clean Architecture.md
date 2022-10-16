@@ -206,5 +206,6 @@
 	- ![image.png](../assets/image_1665959602590_0.png)
 - References
 	- Patterns of enterprise application architecture martin fowler
-	- Clean architecture Robert
-	- Domain driven design
+	- Clean architecture Robert C. Martin
+	- Domain driven design Eric evans book
+	-
