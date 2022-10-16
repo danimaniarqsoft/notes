@@ -149,7 +149,8 @@
 		- Organize by components or by use cases?
 			- ![image.png](../assets/image_1665948763929_0.png)
 		- Organize by use cases
-			- is generally more efficient than categorical cohesion
+			- is generally more efficient than categorical cohesion organizing by component types
+			-
 			-
 		- Functional vs Categorical
 - Microservices
