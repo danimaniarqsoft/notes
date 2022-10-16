@@ -28,7 +28,7 @@
 	- testable
 	- maintainable
 - What is Clean Architecture
-	- Architecture that is designed for the inhabitants of the arch
+	- Architecture that is designed for the inhabitants of the architecture... not for the architect... or the machine
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
