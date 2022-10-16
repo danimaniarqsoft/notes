@@ -98,7 +98,10 @@
 		- easy to understand
 		- follow Dependency Injection principle
 	- Cons
-		- Addc
+		- Additional layer cost
+		- requires extra thought
+		- IoC is counter-intuitive
+		-
 		-
 	-
 - Commands and Queries
