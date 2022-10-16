@@ -148,7 +148,9 @@
 		- We can organize the folders of the project according to the components are used to build the software (models, views, controllers, etc) or we can organize the folders according to the use cases of the system (customers, products, vendors
 		- Organize by components or by use cases?
 			- ![image.png](../assets/image_1665948763929_0.png)
-		-
+		- Organize by use cases
+			- is generally more efficient than categorical cohesion
+			-
 		- Functional vs Categorical
 - Microservices
 - Testable Architecture
