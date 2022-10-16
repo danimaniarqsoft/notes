@@ -86,6 +86,8 @@
 		- Not for domain driven architectures. The domain is not present
 	- Modern Four-layer Architecture
 		- ![image.png](../assets/image_1665942742549_0.png)
+		- presentation, user interface
+		-
 		-
 	-
 - Commands and Queries
