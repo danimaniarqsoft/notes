@@ -102,6 +102,7 @@
 		- requires extra thought
 		- IoC is counter-intuitive
 - Commands and Queries
+	- Command Query Responsability Separation Architecture (CQRS)
 	- Command-query separation
 		- Command
 			- does something
@@ -113,7 +114,7 @@
 			- should return a value
 		- Exceptions area:
 			- Pop a stack : remove item (command) return pop item (query)
-			- when create record (command) we must return the new ID (query)
+			- Create a new record: when create record (command) we must return the new ID (query)
 		-
 		-
 - Functional Organization
