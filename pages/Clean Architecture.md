@@ -10,7 +10,7 @@
 	- layers
 	- components
 	- relationships
-- Levels of Architecturral abstraction
+- Levels of Architectural Abstraction
 	- ![image.png](../assets/image_1665898189089_0.png)
 	-
 	-
