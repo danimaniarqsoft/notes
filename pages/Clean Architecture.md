@@ -1,4 +1,6 @@
 - {{renderer :tocgen}}
+- Introduction
+	-
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
