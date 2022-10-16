@@ -1,1 +1,7 @@
+- What **ACID** means? #card
+	- **A**tomicity
+	- **C**onsistency
+	- **I**solation
+- What is a transaction? #card
+	- In the ciontext of databases
 -
