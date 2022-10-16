@@ -1,1 +1,5 @@
-- What ACID means?
+- What ACID means? #card
+	- **A**tomicity
+	- **C**onsistency
+	- **I**solation
+	- **D**urability
