@@ -83,7 +83,8 @@
 	- Three-layer Architecture
 		- ![image.png](../assets/image_1665942568675_0.png)
 		- This is used for CRUD applications
-		- Not for domain driven architectures. The domain
+		- Not for domain driven architectures. The domain is not present
+	- Modern Four-layer Architecture
 		-
 	-
 - Commands and Queries
