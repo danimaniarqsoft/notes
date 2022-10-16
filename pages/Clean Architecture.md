@@ -162,6 +162,8 @@
 		- ![image.png](../assets/image_1665951955446_0.png)
 		-
 	- What is microservices
+		- ![image.png](../assets/image_1665952082224_0.png)
+		-
 	- Pros and Cons
 - Testable Architecture
 - Evolving the Architecture
