@@ -12,7 +12,9 @@
 	- relationships
 - Levels of Architectural Abstraction
 	- ![image.png](../assets/image_1665898189089_0.png)
-	-
+- Bad vs good architecture
+	- Bad architecture
+		-
 	-
 - Domain-centric Architecture
 - Application Layer
