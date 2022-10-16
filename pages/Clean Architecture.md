@@ -93,6 +93,9 @@
 			- it use inversion of control framework
 		- domain, has the domain logit of the aplication
 		- cross-cutting concerns, are aspects of the application that cross all the layers of the system
+	- Prod
+		- focus on use cases
+		- easy to understand
 		-
 		-
 	-
