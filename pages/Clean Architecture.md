@@ -46,10 +46,12 @@
 		- problem domain
 		- business domain
 	- Infraestructure
+		- interface into the operating system
 		- third party dependencies
 	- Persistance
 		- interfaces to the persistence data
 	- Common
+		- crosscuttn
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
