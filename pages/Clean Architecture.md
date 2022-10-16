@@ -134,6 +134,9 @@
 			- Replay events
 			- Multiple read database
 			- Rebuild production database
+	- Pros
+		-
+	- Cons
 - Functional Organization
 - Microservices
 - Testable Architecture
