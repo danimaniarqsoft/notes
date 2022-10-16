@@ -60,7 +60,7 @@
 		- Hexagonal Architecture
 			- by [Alistair](https://alistair.cockburn.us/hexagonal-architecture/) main articule
 		- Onion Architecture
-			- by
+			- by [Jeffrey Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/)
 		-
 - ## Application Layer
 - Commands and Queries
