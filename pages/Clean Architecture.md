@@ -208,4 +208,4 @@
 	- Patterns of enterprise application architecture martin fowler
 	- Clean architecture Robert C. Martin
 	- Domain driven design Eric evans book
-	-
+	- martinfowler.com
