@@ -209,5 +209,3 @@
 	- Clean architecture Robert C. Martin
 	- Domain driven design Eric evans book
 	- Martin Fowler https://martinfowler.com
-	- Greg young https://goodenoughsoftware.net
-	- Udi Dahan https://udidahan.com
