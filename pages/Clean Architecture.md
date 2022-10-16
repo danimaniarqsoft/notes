@@ -89,6 +89,8 @@
 		- presentation, user interface
 		- application, use cases of the aplication asaxecutable code and abstractions
 		- domain, has the domain logit of the aplication
+		- cross-cutting concerns, are aspects of the application that cross all the layers of the system
+		-
 		-
 	-
 - Commands and Queries
