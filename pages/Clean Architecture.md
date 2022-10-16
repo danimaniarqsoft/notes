@@ -126,7 +126,7 @@
 		- Single-database CQRS
 			- ![image.png](../assets/image_1665946087800_0.png)
 		- Two-database CQRS
-			-
+			- ![image.png](../assets/image_1665946239679_0.png)
 		-
 - Functional Organization
 - Microservices
