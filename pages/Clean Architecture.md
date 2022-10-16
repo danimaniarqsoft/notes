@@ -81,7 +81,8 @@
 		-
 - ## Application Layer
 	- Three-layer Architecture
-		- ![image.png](../assets/image_1665942482642_0.png)
+		- ![image.png](../assets/image_1665942568675_0.png)
+		-
 		-
 	-
 - Commands and Queries
