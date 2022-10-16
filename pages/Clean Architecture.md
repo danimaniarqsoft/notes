@@ -10,7 +10,8 @@
 	- layers
 	- components
 	- relationships
--
+- Levels of Architecturral abstraction
+	-
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
