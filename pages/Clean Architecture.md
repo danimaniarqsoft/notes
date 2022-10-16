@@ -55,7 +55,7 @@
 - ## Domain-centric Architecture
 	- First of all, we need to know the differences between data base centric architectura and domain centric architecture 
 	  ![image.png](../assets/image_1665900505040_0.png)
-	-
+- The first concern of the architect
 - ## Application Layer
 - Commands and Queries
 - Functional Organization
