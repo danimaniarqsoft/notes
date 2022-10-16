@@ -96,7 +96,9 @@
 	- Prod
 		- focus on use cases
 		- easy to understand
-		-
+		- follow Dependency Injection principle
+	- Cons
+		- Addc
 		-
 	-
 - Commands and Queries
