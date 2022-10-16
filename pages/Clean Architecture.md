@@ -145,7 +145,7 @@
 - Functional Organization
 	- Screaming Architecture
 		- ((634c5a5e-1873-4e56-92ff-7de21f924ef3))
-		-
+		- We can organize the folders of the project according to the components
 	- Functional vs Categorical
 - Microservices
 - Testable Architecture
