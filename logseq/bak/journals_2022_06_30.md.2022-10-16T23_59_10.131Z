@@ -1,0 +1,3 @@
+- acceso a [[Kibana]]
+	- [Log de kibana](http://172.23.13.22:5601/app/logtrail#/?q=instance_name.keyword:%22distribucionMs-msacytctpro02.app.cienciafrontera.produccion.servers:8106%22&h=distribucionMs&t=Now&i=logs-*&_g=())
+	-

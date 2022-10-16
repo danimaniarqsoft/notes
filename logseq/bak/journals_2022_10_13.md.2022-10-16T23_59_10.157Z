@@ -1,0 +1,15 @@
+- [[SEP y Rizoma]]
+	- Fecha y hora para poder tener una sesión de trabajo con la SEP
+	- La Dra. Carmen es la jefa de todo este proyecto del lado de la SEP
+	- Sistema de SICU, Mau Alex Ortega es el responsable de esta iniciativa
+	- Flujo
+		- Profesor que registra en SICU, quiere recuperar información de docencia que capturo su  información en el CONACy
+		- Cuando se captura la información del lado de CONACyT,
+			- capturan en su `universidad`, `sni` y `prodep` por lo tanto se requiere integrar estos sistemas
+		- documento de interoperabilidad
+		- Eduardo Rosas esta proponiendo
+			- Sesión entre abogados
+			- Sesión entre arquitectos
+			- Sesión de negocio con el flujo
+			- Sesión entre los campo
+-

@@ -1,0 +1,29 @@
+- [[Reporteador para SALSA]]
+	- TODO revisar como dar permisos a dashboard
+	- TODO ver como se administran los usuarios
+- [[Análisis de DAMCAD]]
+	- [Lista de talento damcad](https://docs.google.com/spreadsheets/d/1x7IeKfL1skHkuAnXwdpbQ7RuTsGgrR03cYSjYlcPdlI/edit#gid=468329228)
+		- DONE considerar LOC semanales para los roles programadores
+		  :LOGBOOK:
+		  CLOCK: [2022-10-09 Sun 09:57:02]--[2022-10-09 Sun 09:57:04] =>  00:00:02
+		  :END:
+		- DONE considerar fecha de ingreso
+		  :LOGBOOK:
+		  CLOCK: [2022-10-09 Sun 09:57:15]--[2022-10-09 Sun 09:57:15] =>  00:00:00
+		  :END:
+	- Lista de células damcad
+		- DONE agregar número de tickets que se atienden en promedio por semana
+		  :LOGBOOK:
+		  CLOCK: [2022-10-09 Sun 09:57:20]--[2022-10-09 Sun 09:57:22] =>  00:00:02
+		  :END:
+		- TODO Lista de proyectos que atienden
+	- Lista de repositorios activos
+		- TODO considerar LOC semanales
+		  :LOGBOOK:
+		  CLOCK: [2022-10-09 Sun 09:57:38]--[2022-10-09 Sun 09:57:41] =>  00:00:03
+		  :END:
+	- Lista de todas las áreas del CONACyT
+	- Lista de proyectos que se tienen en CONACyT
+		- TODO agregar el análisis de los [ALPHA de rizoma](https://docs.google.com/spreadsheets/d/1kXTQ3mCYyJk-7cPP-y_2PNrVQDh6iggytEz1T5p79eA/edit?usp=sharing)
+		- TODO agregar número de tickets que se atienden en promedio por semana
+		- TODO agregar el área al que pertenece

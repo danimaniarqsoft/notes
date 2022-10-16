@@ -1,0 +1,16 @@
+- Configuración de proyecto para Nómina SNI [[Proyecto SNI]]
+	- Tus proyectos:
+	- https://scm.crip.conacyt.mx/sni-salsa/sni-gw
+	- https://scm.crip.conacyt.mx/sni-salsa/nomina-ms
+	- Ya están preparados:
+	- Tienen sus respectivos proyectos en apicurio
+	  Tiene configurado generar el cliente (de la forma saci)
+	  Tienen su proyecto Sentry
+	  Falta generar el stack de desarrollo
+	- Y me faltaría compartirles sus respectivos .env
+	- Pero como sé que no lo van a usar y van a salir con la tradicional mamada de que “lo ven riesgoso y que no van a salir y la mamada y media”… pues mejor hasta que lo usen.
+	- NOTA: Lo dejé en salsa-sni, por que en ese si tengo control, en el de sni no soy ni maintainer
+	- Si quieres, los puedo mover… pero tendría que ponerme como owner del grupo sni
+	- (para lo de la integración)
+		- mensaje original https://chat.crip.conacyt.mx/direct/mZscmA6y4xonuHjadsW7aMGfZpyPMAFDhT/thread/ex6XbFaAJQfQ8762D
+	-

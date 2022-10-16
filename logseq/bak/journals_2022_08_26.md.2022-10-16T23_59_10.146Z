@@ -1,0 +1,15 @@
+- [[Accesos MIIC]]
+	- n@yE2989
+	  naye29@hotmail.com
+-
+- [[Monitoreo]]
+	- MIIC
+		- http://172.23.13.180:7001/domainhealth/ 
+		  user: weblogic 
+		  pass: Reset3017%
+		- GRAFANA
+		  http://status.conacyt.mx:3000/ 
+		  user: luis.munguia@conacyt.mx 
+		  pass: Conacyt#2022
+- de 42,349 coinciden 27,316
+- eabullya@gmail.com
