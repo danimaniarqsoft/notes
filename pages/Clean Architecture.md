@@ -153,6 +153,8 @@
 				- Functional is generally more efficient than categorical cohesion organizing by component types
 		- ![image.png](../assets/image_1665949364100_0.png)
 - Microservices
-	-
+	- Bounded Context
+	- What is microservices
+	- Pros and Cons
 - Testable Architecture
 - Evolving the Architecture
