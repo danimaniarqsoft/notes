@@ -52,8 +52,9 @@
 		- interfaces to the persistence data
 	- Common
 		- crosscutting concerns
-- Domain-centric Architecture
-- Application Layer
+- ## Domain-centric Architecture
+	-
+- ## Application Layer
 - Commands and Queries
 - Functional Organization
 - Microservices
