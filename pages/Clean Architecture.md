@@ -63,6 +63,8 @@
 		- Onion Architecture
 			- by [Jeffrey Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/)
 			- ![image.png](../assets/image_1665903282469_0.png)
+		- Clean Architecture
+			- by
 		-
 - ## Application Layer
 - Commands and Queries
