@@ -199,5 +199,8 @@
 		- Eliminates fear
 	- Cons
 		- Higher up-front cost
-		- TDD requires discipo
+		- TDD requires discipline
+		- Requires team buy-in
+		-
 - Evolving the Architecture
+	-
