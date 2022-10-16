@@ -87,7 +87,8 @@
 	- Modern Four-layer Architecture
 		- ![image.png](../assets/image_1665942742549_0.png)
 		- presentation, user interface
-		-
+		- application, use cases of the aplication asaxecutable code and abstractions
+		- domain, has the domain logit of the aplication
 		-
 	-
 - Commands and Queries
