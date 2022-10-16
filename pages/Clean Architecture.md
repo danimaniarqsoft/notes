@@ -171,6 +171,8 @@
 			- Cohesion/coupling
 			- Independence
 		- Cons
-			- Higher
+			- Higher up-front cost
+			- Conway's Law
+			- Distributed system costs
 - Testable Architecture
 - Evolving the Architecture
