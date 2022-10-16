@@ -135,8 +135,13 @@
 			- Multiple read database
 			- Rebuild production database
 	- Pros
-		-
+		- MOre effcient design
+		- Optimized performance
+		- Event sourcing benefits
 	- Cons
+		- Inconsistent across stacks
+		- More complex
+		- Event sourcing costs
 - Functional Organization
 - Microservices
 - Testable Architecture
