@@ -145,7 +145,7 @@
 - Functional Organization
 	- Screaming Architecture
 		- ((634c5a5e-1873-4e56-92ff-7de21f924ef3))
-		- We can organize the folders of the project according to the components are used to build the software (models, views, controllers, etc) or we can organize the folders according to the use cases of the system (customers, products, vendors)
+	- We can organize the folders of the project according to the components are used to build the software (models, views, controllers, etc) or we can organize the folders according to the use cases of the system (customers, products, vendors
 	- Functional vs Categorical
 - Microservices
 - Testable Architecture
