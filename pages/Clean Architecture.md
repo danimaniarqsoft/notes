@@ -135,7 +135,7 @@
 			- Multiple read database
 			- Rebuild production database
 	- Pros
-		- MOre effcient design
+		- More effcient design
 		- Optimized performance
 		- Event sourcing benefits
 	- Cons
