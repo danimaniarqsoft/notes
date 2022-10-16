@@ -124,6 +124,7 @@
 			- Create a new record: when create record (command) we must return the new ID (query)
 	- Three types of CQRS
 		- Single-database CQRS
+			- ![image.png](../assets/image_1665946087800_0.png)
 		-
 		-
 - Functional Organization
