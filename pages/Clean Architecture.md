@@ -143,6 +143,8 @@
 		- More complex
 		- Event sourcing costs
 - Functional Organization
+	- Screaming Architecture
+	- Functional vs
 - Microservices
 - Testable Architecture
 - Evolving the Architecture
