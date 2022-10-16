@@ -46,7 +46,9 @@
 		- problem domain
 		- business domain
 	- Infraestructure
+		- third party dependencies
 	- Persistance
+		- interfaces to the persistence data
 	- Common
 - Domain-centric Architecture
 - Application Layer
