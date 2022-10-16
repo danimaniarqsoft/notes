@@ -1,6 +1,9 @@
 - {{renderer :tocgen}}
 - Introduction
-	-
+	- Focus of the architecture
+		- Enterprise Applications
+		- Agile Architecture
+		- Top 7 ideas
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
