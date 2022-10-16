@@ -154,6 +154,7 @@
 		- ![image.png](../assets/image_1665949364100_0.png)
 - Microservices
 	- Bounded Context
+		- ![image.png](../assets/image_1665951717860_0.png)
 	- What is microservices
 	- Pros and Cons
 - Testable Architecture
