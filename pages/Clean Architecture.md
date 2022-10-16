@@ -14,7 +14,15 @@
 	- ![image.png](../assets/image_1665898189089_0.png)
 - Bad vs good architecture
 	- Bad architecture
-		-
+		- complex
+		- incoherent
+		- Rigid
+		- Brittle
+		- Untestable
+		- Unmaintainable
+	- Good Arquitecture
+	- simple
+	- understandable
 	-
 - Domain-centric Architecture
 - Application Layer
