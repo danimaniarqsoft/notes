@@ -193,5 +193,11 @@
 		- Smoke test instead
 		- Minimize manual tests
 		- Exploratory test instead
-		-
+	- Pros
+		- Easier to test
+		- Improves design
+		- Eliminates fear
+	- Cons
+		- Higher up-front cost
+		- TDD requires discipo
 - Evolving the Architecture
