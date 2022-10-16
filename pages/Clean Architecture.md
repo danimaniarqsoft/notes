@@ -80,8 +80,7 @@
 			-
 		-
 - ## Application Layer
-	- Dependency inversion principle
-	- Pros and Con
+	- Three
 	-
 - Commands and Queries
 - Functional Organization
