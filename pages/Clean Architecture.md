@@ -108,10 +108,12 @@
 			- does something
 			- should modify state
 			- should not return a value
+			- must be optimized for writing data
 		- Query
 			- answer a question
 			- should not modify state
 			- should return a value
+			- must be optimized for reading data
 		- Exceptions area:
 			- Pop a stack : remove item (command) return pop item (query)
 			- Create a new record: when create record (command) we must return the new ID (query)
