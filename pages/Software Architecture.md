@@ -1,0 +1,2 @@
+- References
+	- [Top 5 courses to learn software architecture](https://medium.com/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)
