@@ -1,3 +1,4 @@
+- Whay
 - What **ACID** means? #card
 	- **A**tomicity
 	- **C**onsistency
