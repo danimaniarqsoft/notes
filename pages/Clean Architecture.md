@@ -107,11 +107,13 @@
 			- does something
 			- should modify state
 			- should not return a value
-			- exceptions is when create record (command) we must return the new ID (query)
 		- Query
 			- answer a question
 			- should not modify state
 			- should return a value
+		- Exceptions area:
+			- Pop a stack : remove item (command) return pop item (query)
+			- when create record (command) we must return the new ID (query)
 		-
 		-
 - Functional Organization
