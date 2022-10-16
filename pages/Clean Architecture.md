@@ -106,6 +106,7 @@
 - Commands and Queries
 	- Command Query Responsibility Separation Architecture (CQRS)
 	  id:: 634c4de9-b83e-4078-9859-54d3a2f282fc
+	- ![image.png](../assets/image_1665945889867_0.png)
 	- It is domain-centric Architecture
 	- Command-query separation
 		- Command
