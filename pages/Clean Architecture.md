@@ -183,6 +183,7 @@
 	- Test automation pyramid
 		- ![image.png](../assets/image_1665958882753_0.png)
 	- Acceptance Tests
+		- ![image.png](../assets/image_1665959068704_0.png)
 		- Verify functionality
 		- Language of the business
 		- Criteria for completeness
