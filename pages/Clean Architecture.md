@@ -103,6 +103,7 @@
 		- IoC is counter-intuitive
 - Commands and Queries
 	- Command Query Responsibility Separation Architecture (CQRS)
+	- It is domain
 	- Command-query separation
 		- Command
 			- does something
