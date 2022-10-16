@@ -64,7 +64,9 @@
 			- by [Jeffrey Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/)
 			- ![image.png](../assets/image_1665903282469_0.png)
 		- Clean Architecture
-			- by
+			- by [Uncle bot](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+			- ![image.png](../assets/image_1665903405217_0.png)
+			-
 		-
 - ## Application Layer
 - Commands and Queries
