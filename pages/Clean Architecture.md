@@ -54,7 +54,12 @@
 		- crosscutting concerns
 - ## Domain-centric Architecture
 	- Pros
-		-
+		- focus on domain
+		- less coupling
+		- allows for DDD
+	- COns
+		- change is difficult
+		- requires more tho
 	- First of all, we need to know the differences between data base centric architectura and domain centric architecture 
 	  ![image.png](../assets/image_1665900505040_0.png)
 	- domain a use cases are essential
