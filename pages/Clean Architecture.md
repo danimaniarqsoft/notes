@@ -101,10 +101,8 @@
 		- Additional layer cost
 		- requires extra thought
 		- IoC is counter-intuitive
-		-
-		-
-	-
 - Commands and Queries
+	- Command-query
 - Functional Organization
 - Microservices
 - Testable Architecture
