@@ -11,6 +11,8 @@
 	- components
 	- relationships
 - Levels of Architecturral abstraction
+	- ![image.png](../assets/image_1665898189089_0.png)
+	-
 	-
 - Domain-centric Architecture
 - Application Layer
