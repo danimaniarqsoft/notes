@@ -177,5 +177,7 @@
 			- Distributed system costs
 - Testable Architecture
 	- Test-driven development
+		- ![image.png](../assets/image_1665958574243_0.png)
+		-
 	- Test automation pyramid
 - Evolving the Architecture
