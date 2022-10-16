@@ -188,5 +188,10 @@
 		- Language of the business
 		- Criteria for completeness
 		- Full test are problematic
+		- Focus on the essential
+		- Minimize Coded UI tests
+		- Smoke test instead
+		- Minimize manual tests
+		- Exploratory
 		-
 - Evolving the Architecture
