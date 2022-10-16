@@ -51,7 +51,7 @@
 	- Persistance
 		- interfaces to the persistence data
 	- Common
-		- crosscuttn
+		- crosscutting concerns
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
