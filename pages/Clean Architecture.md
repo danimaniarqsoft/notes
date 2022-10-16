@@ -61,6 +61,8 @@
 		- change is difficult
 		- requires more thought
 		- initial higher cost
+	- Implementations
+		- ((634c4de9-b83e-4078-9859-54d3a2f282fc))
 	- First of all, we need to know the differences between data base centric architectura and domain centric architecture 
 	  ![image.png](../assets/image_1665900505040_0.png)
 	- domain a use cases are essential
@@ -103,7 +105,8 @@
 		- IoC is counter-intuitive
 - Commands and Queries
 	- Command Query Responsibility Separation Architecture (CQRS)
-	- It is domain-centric Architecrture
+	  id:: 634c4de9-b83e-4078-9859-54d3a2f282fc
+	- It is domain-centric Architecture
 	- Command-query separation
 		- Command
 			- does something
