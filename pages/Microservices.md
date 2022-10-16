@@ -8,4 +8,3 @@
 	- **A**tomicity
 	- **C**onsistency
 	- **I**solation
-	- **D**urability
