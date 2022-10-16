@@ -58,6 +58,8 @@
 	- domain a use cases are essential
 	- Examples
 		- Hexagonal Architecture
+			- by [Alistair](https://alistair.cockburn.us/hexagonal-architecture/) main articule
+			-
 		-
 - ## Application Layer
 - Commands and Queries
