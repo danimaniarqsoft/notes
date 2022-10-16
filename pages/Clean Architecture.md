@@ -37,7 +37,14 @@
 	- focus o the essential
 	- build onliy what is necessary
 	- optimize for maintainability
--
+- Layers of the demo
+	- Presentation
+		-
+	- Application
+	- Domain
+	- Infraestructure
+	- Persistance
+	- Common
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
