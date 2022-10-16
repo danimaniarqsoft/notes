@@ -59,8 +59,10 @@
 	- Examples
 		- Hexagonal Architecture
 			- by [Alistair](https://alistair.cockburn.us/hexagonal-architecture/) main articule
+			- ![image.png](../assets/image_1665903247074_0.png)
 		- Onion Architecture
 			- by [Jeffrey Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/)
+			- ![image.png](../assets/image_1665903282469_0.png)
 		-
 - ## Application Layer
 - Commands and Queries
