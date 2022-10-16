@@ -176,4 +176,6 @@
 			- Conway's Law
 			- Distributed system costs
 - Testable Architecture
+	- Test-driven development
+	- Test automation pyramid
 - Evolving the Architecture
