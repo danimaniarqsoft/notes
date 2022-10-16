@@ -82,7 +82,8 @@
 - ## Application Layer
 	- Three-layer Architecture
 		- ![image.png](../assets/image_1665942568675_0.png)
-		-
+		- This is used for CRUD applications
+		- Not for domain driven architectures. The domain
 		-
 	-
 - Commands and Queries
