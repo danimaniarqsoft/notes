@@ -1,5 +1,6 @@
 - {{renderer :tocgen}}
 - Introduction
+	- ![image.png](../assets/image_1665952892760_0.png)
 	- Focus of the architecture
 		- Enterprise Applications
 		- Agile Architecture
