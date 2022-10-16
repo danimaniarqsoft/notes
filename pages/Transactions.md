@@ -1,4 +1,5 @@
-- Whay
+- What ACID stand for?
+	- ACID is an acronym that refers to the set of 4 key properties that define a transaction: Atomicity,
 - What **ACID** means? #card
 	- **A**tomicity
 	- **C**onsistency
