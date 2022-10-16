@@ -129,6 +129,11 @@
 			- ![image.png](../assets/image_1665946239679_0.png)
 		- Event Sourcing CQRS
 			- ![image.png](../assets/image_1665946535153_0.png)
+			- Complete audit trail
+			- Point-in-time reconstruction
+			- Replay events
+			- Multiple read database
+			- Rebuild production database
 - Functional Organization
 - Microservices
 - Testable Architecture
