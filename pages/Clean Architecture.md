@@ -29,7 +29,12 @@
 	- maintainable
 - What is Clean Architecture
 	- > Architecture that is designed for the inhabitants of the architecture... not for the architect... or the machine
--
+- Why ivest in clean architecture?
+	- cost/benefit
+	- minimize cost
+	- maximize value
+	- maximize ROI
+	-
 - Domain-centric Architecture
 - Application Layer
 - Commands and Queries
