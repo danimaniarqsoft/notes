@@ -128,6 +128,7 @@
 		- Two-database CQRS
 			- ![image.png](../assets/image_1665946239679_0.png)
 		- Event Sourcing CQRS
+			- ![image.png](../assets/image_1665946535153_0.png)
 - Functional Organization
 - Microservices
 - Testable Architecture
