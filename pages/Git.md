@@ -1,7 +1,7 @@
 - {{renderer :tocgen}}
 - # Introduction
   id:: 634ae593-a3d0-416e-b4ef-3d160bc6b404
-	- git use sha-1 algorithm, it is impossible to have two equals hashes.
+	- git use `sha-1 algorithm`, it is impossible to have two equals hashes.
 	- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
 	- there is two kind of commands on git `plumbing commands` and `porcelain commands`
 		- The plumbing commans are lower-level commands
