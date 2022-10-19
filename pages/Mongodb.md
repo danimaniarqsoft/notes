@@ -1,3 +1,6 @@
 - Data modelling methodology
 	- ![image.png](../assets/image_1666212707294_0.png)
-	-
+	- workload
+		- data size, imortant reads and writes
+		- relationships
+			-
