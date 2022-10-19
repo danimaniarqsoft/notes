@@ -1,0 +1,999 @@
+[{:block/name "../assets/2020-scrum-guide-us_1647425997349_0.pdf",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "../assets/desde-la-nube_1647331992500_0.pdf",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name
+  "../assets/java6-certification-guide_1647208784257_0.pdf",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "../assets/java8-interview_1647133326989_0.pdf",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name
+  "../assets/lineamientos_f003_pronaces_-_unknown_1644096873443_0.pdf",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "../assets/progit_1665863282544_0.pdf",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "a",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "accesos",
+  :block/created-at 1662156654944,
+  :block/updated-at 1662156698926}
+ {:block/name "accesos miic",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "actividades",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "agile",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "alternativas para logseq",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "analytics",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "antencion-integral",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "análisis de damcad",
+  :block/created-at 1665685501466,
+  :block/updated-at 1665685540795}
+ {:block/name "apache kafka",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "api gobernance",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649635200000,
+  :block/updated-at 1649635200000}
+ {:block/name "apr 15th, 2022",
+  :block/created-at 1649980800000,
+  :block/updated-at 1649980800000}
+ {:block/name "apr 17th, 2022",
+  :block/created-at 1650153600000,
+  :block/updated-at 1650153600000}
+ {:block/name "apr 21st, 2022",
+  :block/created-at 1650581070575,
+  :block/updated-at 1650581170899}
+ {:block/name "apr 22nd, 2022",
+  :block/created-at 1650665334908,
+  :block/updated-at 1650665728005}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1651845703911,
+  :block/updated-at 1654532260545}
+ {:block/name "apr 26th, 2022",
+  :block/created-at 1650931200000,
+  :block/updated-at 1650931200000}
+ {:block/name "apr 27th, 2022",
+  :block/created-at 1651089672001,
+  :block/updated-at 1651089868087}
+ {:block/name "apr 28th, 2022",
+  :block/created-at 1651104000000,
+  :block/updated-at 1651104000000}
+ {:block/name "apr 29th, 2022",
+  :block/created-at 1651190400000,
+  :block/updated-at 1651190400000}
+ {:block/name "apr 2nd, 2022",
+  :block/created-at 1648857600000,
+  :block/updated-at 1648857600000}
+ {:block/name "apr 30th, 2022",
+  :block/created-at 1651276800000,
+  :block/updated-at 1651276800000}
+ {:block/name "apr 8th, 2022",
+  :block/created-at 1649376000000,
+  :block/updated-at 1649376000000}
+ {:block/name "arche",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "arquitectura de software",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660176000000,
+  :block/updated-at 1660176000000}
+ {:block/name "aug 12th, 2022",
+  :block/created-at 1660262400000,
+  :block/updated-at 1660262400000}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1663774285119,
+  :block/updated-at 1663780668855}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660608000000,
+  :block/updated-at 1660608000000}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660694400000,
+  :block/updated-at 1660694400000}
+ {:block/name "aug 18th, 2022",
+  :block/created-at 1660780800000,
+  :block/updated-at 1660780800000}
+ {:block/name "aug 1st, 2022",
+  :block/created-at 1659312000000,
+  :block/updated-at 1659312000000}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661119767913,
+  :block/updated-at 1661119775042}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661126400000,
+  :block/updated-at 1661126400000}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661299200000,
+  :block/updated-at 1661299200000}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661385600000,
+  :block/updated-at 1661385600000}
+ {:block/name "aug 26th, 2022",
+  :block/created-at 1661537889163,
+  :block/updated-at 1661544888207}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661558400000,
+  :block/updated-at 1661558400000}
+ {:block/name "aug 2nd, 2022",
+  :block/created-at 1659398400000,
+  :block/updated-at 1659398400000}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1661817600000,
+  :block/updated-at 1661817600000}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661904000000,
+  :block/updated-at 1661904000000}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1659484800000,
+  :block/updated-at 1659484800000}
+ {:block/name "aug 4th, 2022",
+  :block/created-at 1659571200000,
+  :block/updated-at 1659571200000}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659916800000,
+  :block/updated-at 1659916800000}
+ {:block/name "aug 9th, 2022",
+  :block/created-at 1660003200000,
+  :block/updated-at 1660003200000}
+ {:block/name "b",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "bpmn",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "c",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "calculo",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "card",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "checkpoint",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "clean architecture",
+  :block/created-at 1665897648443,
+  :block/updated-at 1665960161653}
+ {:block/name "code generation",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "comando",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "comandos linux",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "comprimir",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "conacyt",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "contents",
+  :block/created-at 1644083660254,
+  :block/updated-at 1644091825777}
+ {:block/name "crip",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "damcad",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "databases",
+  :block/created-at 1664996308425,
+  :block/updated-at 1664996308464}
+ {:block/name "declaracion",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "delegation-poker",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "diagrama de estado",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "distri",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "distribu",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "doing",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "done",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "draws",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "draws/2022-02-05-14-10-43.excalidraw",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "draws/2022-10-16-14-31-22.excalidraw",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "ejs template engine",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "entrevista",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "entrevistas",
+  :block/created-at 1666036950519,
+  :block/updated-at 1666036950519}
+ {:block/name "espiritualidad",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "f003",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "favorites",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "feb 11th, 2022",
+  :block/created-at 1644624857269,
+  :block/updated-at 1644624884292}
+ {:block/name "feb 12th, 2022",
+  :block/created-at 1644624000000,
+  :block/updated-at 1644624000000}
+ {:block/name "feb 15th, 2022",
+  :block/created-at 1665733040047,
+  :block/updated-at 1665733045376}
+ {:block/name "feb 17th, 2022",
+  :block/created-at 1645056000000,
+  :block/updated-at 1645056000000}
+ {:block/name "feb 21st, 2022",
+  :block/created-at 1645401600000,
+  :block/updated-at 1645401600000}
+ {:block/name "feb 22nd, 2022",
+  :block/created-at 1645488000000,
+  :block/updated-at 1645488000000}
+ {:block/name "feb 23rd, 2022",
+  :block/created-at 1652127893634,
+  :block/updated-at 1652127942477}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1645747200000,
+  :block/updated-at 1645747200000}
+ {:block/name "feb 28th, 2022",
+  :block/created-at 1646006400000,
+  :block/updated-at 1646006400000}
+ {:block/name "feb 3rd, 2022",
+  :block/created-at 1643934378549,
+  :block/updated-at 1643955323869}
+ {:block/name "feb 4th, 2022",
+  :block/created-at 1643997407189,
+  :block/updated-at 1644084770480}
+ {:block/name "feb 5th, 2022",
+  :block/created-at 1644081196357,
+  :block/updated-at 1654629065160}
+ {:block/name "feb 9th, 2022",
+  :block/created-at 1644467341024,
+  :block/updated-at 1644471636520}
+ {:block/name "firma digital",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "gesi",
+  :block/created-at 1663865333657,
+  :block/updated-at 1663865333657}
+ {:block/name "git",
+  :block/created-at 1665651272983,
+  :block/updated-at 1665871455998}
+ {:block/name "google",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "guia de estudio para java",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "gulp",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "guía para desarrollar componentes en vuejs",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "hisotrias de usuario",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "historias de usuario",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "hls__2020-scrum-guide-us_1647425997349_0",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name
+  "hls__lineamientos_f003_pronaces_-_unknown_1644096873443_0",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "hls__progit_1665863282544_0",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "hugo",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "hábitos",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "ilustraciones gratis",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "in-progress",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "inception",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "ingles",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "java",
+  :block/created-at 1650015819434,
+  :block/updated-at 1650017082275}
+ {:block/name "java-enviroment",
+  :block/created-at 1650015848854,
+  :block/updated-at 1650016201751}
+ {:block/name "java-logging",
+  :block/created-at 1650017091977,
+  :block/updated-at 1650017139059}
+ {:block/name "java-version",
+  :block/created-at 1666036950519,
+  :block/updated-at 1666036950519}
+ {:block/name "jdbc",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "jhipster",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657497600000,
+  :block/updated-at 1657497600000}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1657644807578,
+  :block/updated-at 1657644851084}
+ {:block/name "jul 17th, 2022",
+  :block/created-at 1665895946437,
+  :block/updated-at 1665895946437}
+ {:block/name "jul 19th, 2022",
+  :block/created-at 1658188800000,
+  :block/updated-at 1658188800000}
+ {:block/name "jul 22nd, 2022",
+  :block/created-at 1658448000000,
+  :block/updated-at 1658448000000}
+ {:block/name "jul 25th, 2022",
+  :block/created-at 1658786934569,
+  :block/updated-at 1658792143709}
+ {:block/name "jul 26th, 2022",
+  :block/created-at 1658793600000,
+  :block/updated-at 1658793600000}
+ {:block/name "jul 28th, 2022",
+  :block/created-at 1658966400000,
+  :block/updated-at 1658966400000}
+ {:block/name "jul 29th, 2022",
+  :block/created-at 1659052800000,
+  :block/updated-at 1659052800000}
+ {:block/name "jul 31st, 2022",
+  :block/created-at 1659225600000,
+  :block/updated-at 1659225600000}
+ {:block/name "jul 4th, 2022",
+  :block/created-at 1656892800000,
+  :block/updated-at 1656892800000}
+ {:block/name "jul 5th, 2022",
+  :block/created-at 1656979200000,
+  :block/updated-at 1656979200000}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1657150108160,
+  :block/updated-at 1657150186915}
+ {:block/name "jul 7th, 2022",
+  :block/created-at 1657152000000,
+  :block/updated-at 1657152000000}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1657238400000,
+  :block/updated-at 1657238400000}
+ {:block/name "jul 9th, 2022",
+  :block/created-at 1657384707080,
+  :block/updated-at 1657386547293}
+ {:block/name "jun 10th, 2022",
+  :block/created-at 1654890955259,
+  :block/updated-at 1654923589395}
+ {:block/name "jun 11th, 2022",
+  :block/created-at 1654905600000,
+  :block/updated-at 1654905600000}
+ {:block/name "jun 12th, 2022",
+  :block/created-at 1654992000000,
+  :block/updated-at 1654992000000}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655078400000,
+  :block/updated-at 1655078400000}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655337600000,
+  :block/updated-at 1655337600000}
+ {:block/name "jun 17th, 2022",
+  :block/created-at 1655424000000,
+  :block/updated-at 1655424000000}
+ {:block/name "jun 18th, 2022",
+  :block/created-at 1655510400000,
+  :block/updated-at 1655510400000}
+ {:block/name "jun 19th, 2022",
+  :block/created-at 1655781693806,
+  :block/updated-at 1655781693806}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654041600000,
+  :block/updated-at 1654041600000}
+ {:block/name "jun 20th, 2022",
+  :block/created-at 1655781850226,
+  :block/updated-at 1655915283427}
+ {:block/name "jun 21st, 2022",
+  :block/created-at 1655837054813,
+  :block/updated-at 1655858998243}
+ {:block/name "jun 22nd, 2022",
+  :block/created-at 1655856000000,
+  :block/updated-at 1655856000000}
+ {:block/name "jun 23rd, 2022",
+  :block/created-at 1655942400000,
+  :block/updated-at 1655942400000}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656028800000,
+  :block/updated-at 1656028800000}
+ {:block/name "jun 27th, 2022",
+  :block/created-at 1656288000000,
+  :block/updated-at 1656288000000}
+ {:block/name "jun 28th, 2022",
+  :block/created-at 1656374400000,
+  :block/updated-at 1656374400000}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1656460800000,
+  :block/updated-at 1656460800000}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654128000000,
+  :block/updated-at 1654128000000}
+ {:block/name "jun 30th, 2022",
+  :block/created-at 1656547200000,
+  :block/updated-at 1656547200000}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654214400000,
+  :block/updated-at 1654214400000}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1654473600000,
+  :block/updated-at 1654473600000}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654620031519,
+  :block/updated-at 1654638125820}
+ {:block/name "jun 8th, 2022",
+  :block/created-at 1654646400000,
+  :block/updated-at 1654646400000}
+ {:block/name "jun 9th, 2022",
+  :block/created-at 1654788403145,
+  :block/updated-at 1654788515398}
+ {:block/name "jvm",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "keyboard",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "kibana",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "later",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "lecturas",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "lineamientos de desarrollo",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "lineamientos java",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "linux",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "loading",
+  :block/created-at 1666036950506,
+  :block/updated-at 1666036950506}
+ {:block/name "log",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "manga",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "mar 10th, 2022",
+  :block/created-at 1646942921864,
+  :block/updated-at 1646955388031}
+ {:block/name "mar 11th, 2022",
+  :block/created-at 1646956800000,
+  :block/updated-at 1646956800000}
+ {:block/name "mar 12th, 2022",
+  :block/created-at 1647043200000,
+  :block/updated-at 1647043200000}
+ {:block/name "mar 13th, 2022",
+  :block/created-at 1647129600000,
+  :block/updated-at 1647129600000}
+ {:block/name "mar 15th, 2022",
+  :block/created-at 1647302400000,
+  :block/updated-at 1647302400000}
+ {:block/name "mar 16th, 2022",
+  :block/created-at 1647388800000,
+  :block/updated-at 1647388800000}
+ {:block/name "mar 17th, 2022",
+  :block/created-at 1647475200000,
+  :block/updated-at 1647475200000}
+ {:block/name "mar 1st, 2022",
+  :block/created-at 1646137592074,
+  :block/updated-at 1646137649761}
+ {:block/name "mar 28th, 2022",
+  :block/created-at 1648425600000,
+  :block/updated-at 1648425600000}
+ {:block/name "mar 2nd, 2022",
+  :block/created-at 1646179200000,
+  :block/updated-at 1646179200000}
+ {:block/name "mar 30th, 2022",
+  :block/created-at 1648598400000,
+  :block/updated-at 1648598400000}
+ {:block/name "mar 3rd, 2022",
+  :block/created-at 1646265600000,
+  :block/updated-at 1646265600000}
+ {:block/name "mar 4th, 2022",
+  :block/created-at 1646352000000,
+  :block/updated-at 1646352000000}
+ {:block/name "mar 7th, 2022",
+  :block/created-at 1647329991027,
+  :block/updated-at 1647330361028}
+ {:block/name "mastodon",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "may 14th, 2022",
+  :block/created-at 1652486400000,
+  :block/updated-at 1652486400000}
+ {:block/name "may 15th, 2022",
+  :block/created-at 1652637767060,
+  :block/updated-at 1652783528152}
+ {:block/name "may 16th, 2022",
+  :block/created-at 1652659200000,
+  :block/updated-at 1652659200000}
+ {:block/name "may 17th, 2022",
+  :block/created-at 1652745600000,
+  :block/updated-at 1652745600000}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652832000000,
+  :block/updated-at 1652832000000}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652918400000,
+  :block/updated-at 1652918400000}
+ {:block/name "may 1st, 2022",
+  :block/created-at 1651363200000,
+  :block/updated-at 1651363200000}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653004800000,
+  :block/updated-at 1653004800000}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653264000000,
+  :block/updated-at 1653264000000}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653350400000,
+  :block/updated-at 1653350400000}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653436800000,
+  :block/updated-at 1653436800000}
+ {:block/name "may 26th, 2022",
+  :block/created-at 1653523200000,
+  :block/updated-at 1653523200000}
+ {:block/name "may 28th, 2022",
+  :block/created-at 1653696000000,
+  :block/updated-at 1653696000000}
+ {:block/name "may 29th, 2022",
+  :block/created-at 1653842618698,
+  :block/updated-at 1653842831854}
+ {:block/name "may 2nd, 2022",
+  :block/created-at 1651449600000,
+  :block/updated-at 1651449600000}
+ {:block/name "may 3rd, 2022",
+  :block/created-at 1651845771736,
+  :block/updated-at 1654532264115}
+ {:block/name "may 4th, 2022",
+  :block/created-at 1651622400000,
+  :block/updated-at 1651622400000}
+ {:block/name "may 6th, 2022",
+  :block/created-at 1651846486349,
+  :block/updated-at 1654532327219}
+ {:block/name "may 8th, 2022",
+  :block/created-at 1651968000000,
+  :block/updated-at 1651968000000}
+ {:block/name "may 9th, 2022",
+  :block/created-at 1652054400000,
+  :block/updated-at 1652054400000}
+ {:block/name "mepiss",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "meta-object facility",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "microservices",
+  :block/created-at 1665939942523,
+  :block/updated-at 1665951575377}
+ {:block/name "migración de sistemas",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "model-driven-engineering",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "mongodb",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "monitoreo",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "monitoring",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "naming conventions",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "naming conventions for json",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "now",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "npm",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "nvm",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "oauth 2.0",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "object management group",
+  :block/created-at 1666036950519,
+  :block/updated-at 1666036950519}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665360000000,
+  :block/updated-at 1665360000000}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665678081990,
+  :block/updated-at 1665682716906}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665705600000,
+  :block/updated-at 1665705600000}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665855175776,
+  :block/updated-at 1665855329435}
+ {:block/name "oct 16th, 2022",
+  :block/created-at 1665961292837,
+  :block/updated-at 1665961315150}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665964800000,
+  :block/updated-at 1665964800000}
+ {:block/name "oct 3rd, 2022",
+  :block/created-at 1664755200000,
+  :block/updated-at 1664755200000}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664995806420,
+  :block/updated-at 1664996300648}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1665733140500,
+  :block/updated-at 1665733140500}
+ {:block/name "openapi",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "operacion de ciencia de fronteras",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "oracle",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "panel de seguimiento",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "panel seguimietno",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "pass",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "plan",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "plan general para los proyectos estrategicos",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "practicas ágiles",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "procesos",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "product owner",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "proyecto",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "proyecto alisa",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "proyecto comunidad comimsa",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "proyecto distribución de becas",
+  :block/created-at 1646137057782,
+  :block/updated-at 1657685147430}
+ {:block/name "proyecto practicopedia",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "proyecto rizoma",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "proyecto salsa",
+  :block/created-at 1653434553542,
+  :block/updated-at 1653434582092}
+ {:block/name "proyecto sni",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "prácticas",
+  :block/created-at 1664844225794,
+  :block/updated-at 1664844266497}
+ {:block/name "query",
+  :block/created-at 1666036950506,
+  :block/updated-at 1666036950506}
+ {:block/name "querydsl",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "querymethod",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "quotes",
+  :block/created-at 1665901270352,
+  :block/updated-at 1665948270299}
+ {:block/name "reactive",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "reactive streams",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "recursos web",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "redacción",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "release plan",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "reporteador para salsa",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "reporting tools",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "repository",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "responsabilidades",
+  :block/created-at 1666036950519,
+  :block/updated-at 1666036950519}
+ {:block/name "rizoma",
+  :block/created-at 1666036950512,
+  :block/updated-at 1666036950512}
+ {:block/name "roadmap",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "salario",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "sat",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "scrum",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "seguimiento arquitectura",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "seguimiento becas",
+  :block/created-at 1665006325034,
+  :block/updated-at 1665007896614}
+ {:block/name "seguimiento crip",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "seguimiento cvu",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "seguimiento damcad",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "seguimiento dirección crip",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "seguimiento investigadoras e investigadores por méxico",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "seguimiento reniecyt",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "seguimiento rizoma",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "seguimiento salsa registro",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "seguimiento sni",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "seguimiento snp",
+  :block/created-at 1666036950519,
+  :block/updated-at 1666036950519}
+ {:block/name "segumiento salsa peo",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "seguridad",
+  :block/created-at 1666036950518,
+  :block/updated-at 1666036950518}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663545600000,
+  :block/updated-at 1663545600000}
+ {:block/name "sep 1st, 2022",
+  :block/created-at 1661990400000,
+  :block/updated-at 1661990400000}
+ {:block/name "sep 21st, 2022",
+  :block/created-at 1663805466558,
+  :block/updated-at 1663805650204}
+ {:block/name "sep 22nd, 2022",
+  :block/created-at 1663865303693,
+  :block/updated-at 1663865357516}
+ {:block/name "sep 23rd, 2022",
+  :block/created-at 1663891200000,
+  :block/updated-at 1663891200000}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664064000000,
+  :block/updated-at 1664064000000}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1665733126621,
+  :block/updated-at 1665733131753}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664323200000,
+  :block/updated-at 1664323200000}
+ {:block/name "sep 2nd, 2022",
+  :block/created-at 1662076800000,
+  :block/updated-at 1662076800000}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1662163200000,
+  :block/updated-at 1662163200000}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662502907346,
+  :block/updated-at 1662503039524}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1662595200000,
+  :block/updated-at 1662595200000}
+ {:block/name "sep y rizoma",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "shortcuts",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "sitios para ver  manga",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "sni",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "software architecture",
+  :block/created-at 1665953186491,
+  :block/updated-at 1665953206704}
+ {:block/name "spring security",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "streams",
+  :block/created-at 1666036950511,
+  :block/updated-at 1666036950511}
+ {:block/name "system-design",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "talento",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "tareas comúnes en git",
+  :block/created-at 1653841673046,
+  :block/updated-at 1653842555989}
+ {:block/name "tareas comúnes mongodb",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "tareas comúnes spring data reactive mongodb",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "tareas comúnes spring reactive",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "tares comúnes yeoman",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "technology trends",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "teclear",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "tecnologia",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "tendecias",
+  :block/created-at 1666036950513,
+  :block/updated-at 1666036950513}
+ {:block/name "teoría de grafos",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "todo",
+  :block/created-at 1652993939281,
+  :block/updated-at 1654571793678}
+ {:block/name "transactions",
+  :block/created-at 1665940585188,
+  :block/updated-at 1665941539435}
+ {:block/name "trends",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "tunning",
+  :block/created-at 1666036950509,
+  :block/updated-at 1666036950509}
+ {:block/name "tutoriales de java",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "typing",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "ubuntu",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "update",
+  :block/created-at 1657386689402,
+  :block/updated-at 1657386891659}
+ {:block/name "upgrade",
+  :block/created-at 1666036950508,
+  :block/updated-at 1666036950508}
+ {:block/name "vs code shortcuts",
+  :block/created-at 1644084185211,
+  :block/updated-at 1644084187101}
+ {:block/name "vscode",
+  :block/created-at 1666036950507,
+  :block/updated-at 1666036950507}
+ {:block/name "vuejs",
+  :block/created-at 1666036950514,
+  :block/updated-at 1666036950514}
+ {:block/name "vuejs charts",
+  :block/created-at 1666036950515,
+  :block/updated-at 1666036950515}
+ {:block/name "vuejs store",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "vuejs-components",
+  :block/created-at 1666036950516,
+  :block/updated-at 1666036950516}
+ {:block/name "vuextore",
+  :block/created-at 1666036950510,
+  :block/updated-at 1666036950510}
+ {:block/name "wait",
+  :block/created-at 1666036950517,
+  :block/updated-at 1666036950517}
+ {:block/name "waiting",
+  :block/created-at 1666036950507, 
+  :block/updated-at 1666036950507}]
