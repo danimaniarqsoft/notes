@@ -1,6 +1,8 @@
 - Data modelling methodology
 	- ![image.png](../assets/image_1666212707294_0.png)
-	- workload
+	- Workload
 		- data size, imortant reads and writes
-		- relationships
-			-
+	- Relationships
+		- idnetify them, link or embed the related entities
+	- Patterns
+		- apply the ones for needed optimizations
