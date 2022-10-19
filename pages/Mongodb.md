@@ -6,3 +6,4 @@
 		- idnetify them, link or embed the related entities
 	- Patterns
 		- apply the ones for needed optimizations
+	- ![image.png](../assets/image_1666214269279_0.png)
