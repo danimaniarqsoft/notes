@@ -1,0 +1,188 @@
+- {{renderer :tocgen}}
+- # Introduction
+  id:: 634ae593-a3d0-416e-b4ef-3d160bc6b404
+	- git use sha-1 algorithm, it is impossible to have two equals hashes.
+	- there is a new command for `git checkout branch-name`, it is `git switch branch-name`
+	- there is two kind of commands on git `plumbing commands` and `porcelain commands`
+		- The plumbing commans are lower-level commands
+		- The porcelain commands are friendly commands
+	- The sequence of commands of `git fetch` and `git merge` are both in `git pull`
+	- Never rebase shared commits
+	-
+- # Forks and pull request
+  id:: 634acaae-da74-4e68-807f-2a68c2634baa
+	- both area social features, not area part of git. Each provider, like github o gitlab, manage this part in a different way
+	- The concept of upstream
+		- ![image.png](../assets/image_1665652873402_0.png)
+- ### The four areas of git
+	- Stash
+	- Working area
+	- Index
+	- Repository
+- # Commands for change the history
+	- ((634af202-7c53-4440-abf1-73dfa73f7bbb)) just modify the current commit
+	-
+- ### The two questions to understand what a command does
+	- > how does this command move information across the Four Areas?
+	- >How does this command change the repository?
+- # Git commands
+- ## git diff
+  id:: 634acaae-4963-4dab-9ffe-4d46f06ee682
+	- `git diff` compare the files between the working area and the index
+		- ![image.png](../assets/image_1665656492499_0.png)
+	- `git diff --cached` compare content between index and repository
+		- ![image.png](../assets/image_1665656653664_0.png)
+- ## git checkout
+	- when we checkout a branch with `git checkout branch-name` command the next things happend
+		- 1. the `HEAD` points at branch-name or commit hash
+		  2. The repository files copy into the index and the working area
+		- ![image.png](../assets/image_1665686920215_0.png)
+- ## git rm
+	- `git rm --cached <file-name>` remove file from index but no from working area
+		- this is oppositive of `git add <files>`
+		- other option is `git reset HEAD <files>`
+	- `git rm <file-name>` remove the file from index and the working area
+- ## git mv
+	- there are two ways
+		- First way
+			- 1. `mv old-name-file.tx new-name-file.txt`
+			  2. `git add new-name.-filet.txt`
+			  3. `git add old-name-file.txt`
+		- Second way
+			- 1. `git mv old-name-file.txt new-name-file.txt`
+- ## git reset
+	- moves the current HEAD and branch to a specific commit
+	- moves the current branch, and optionally copies data from the Repository to the other areas
+		- --soft no copy nothing into index or working area
+		- --mix copy the repository data into the index (default)
+		- --hard copy data into index and working area
+	- ### uses
+		- this command is used for revert changes in the git history.
+	- ![image.png](../assets/image_1665694237416_0.png)
+	-
+	- `git reset --hard`
+		- > this is used for clean the working area with `git reset --hard HEAD`
+		- ![image.png](../assets/image_1665694342527_0.png)
+	- `git reset --mix` this is the default option
+		- > this is used for unstagged files with the command `git reset HEAD`
+		- ![image.png](../assets/image_1665694378198_0.png)
+	- `git reset --soft`
+		- ![image.png](../assets/image_1665694489467_0.png)
+- ## git stash
+	- It is like a clip board of the project
+	- this command copy all the data into de index and the working area ant put it into the stash area and copy all the data into the Repository into the index and the workiing area.
+	- ![image.png](../assets/image_1665696855477_0.png)
+	- ![image.png](../assets/image_1665697009659_0.png)
+	-
+	- Uses
+		- for store into the stash
+			- `git stash`
+			- `git stash --include-untracked` this is the best for most cases
+		- for restore the stash into the working area and the
+			- `git stash apply`
+		- for clean the current stash
+			- `git stash clear`
+- ## git merge
+	- if exist a conflict, git add three files in order to track the merge flow
+		- ![image.png](../assets/image_1665722920057_0.png)
+		- MERGE_HEAD
+		- MERGE_MODE
+		- MERGE_MSG
+- ## git switch
+	- > It is used for moving to a different branch
+- ## git restore
+	- > I is used for recovering an earlier commit
+- ## git log
+	- `git log --graph --decorate --oneline`
+- ## git show
+	- > It is used for show the result of the commit
+	- `git show <reference>`
+	- examples
+		- `git show HEAD^`
+		- `git show HEAD~1`
+- ## git blame
+	- > It is used for show who, when and what modifies a file
+	- examples
+		- `git blame <path/to/file>`
+- ## git commit --amend
+  id:: 634af202-7c53-4440-abf1-73dfa73f7bbb
+	- > change the latest commit, we can add files and then ammend
+	- usages
+		- `git commit --amend`
+- ## git rebase
+	- > It is used for merge changes in a different way
+	- we can reordering commits, squashing commits, rewording them
+	- `git rebase -i` interactive mode
+		- ![image.png](../assets/image_1665857725320_0.png)
+		- 1. select excecution program order of the commits
+		  2.execute the rebasing
+		- examples:
+			- `git rebase -i origin/master` it means, the current branch is going to rebase the orgint/master branch
+			- `git rebase --continue` used after resolve a conflict in the execution of the rebase program
+		- Recovery hashes from interactive rebase
+			- ((634b08a7-4003-40f4-9850-db070cf1b007))
+		- undoing the rebase
+			- {{youtube https://www.youtube.com/watch?v=qP4i3S2hujc}}
+				- {{youtube-timestamp 110}}  How to undo rebase
+				-
+				-
+				-
+			-
+	- ## git reflog
+	  id:: 634b08a7-4003-40f4-9850-db070cf1b007
+		- > It is the log of the commands executed in the log repository. With this command is possible to recovery from mistakes
+		- uses
+			- `git reflog HEAD`
+				- after we can use `git show HEAD@{25}` for example to see the references
+				-
+		-
+		-
+	-
+- ## git filter-repo
+	- > It is used for Rewriting large chunks of history
+	- ((634b18f3-e79c-4a13-b399-3b7d6813800c))
+	- Usages
+		- for delete a specific file use `git filter-repo --path <file-name> --invert-paths`
+	-
+	- ![image.png](../assets/image_1665863085525_0.png)
+- ## git revert
+	- > It is used for delete changes into a specific commit without affecting the history, instate it create a new commit
+	- ![image.png](../assets/image_1665866987069_0.png)
+	- Usages
+		- git revert <commit-hash>
+- # Git workflows patterns
+	- Three things to consider ![image.png](../assets/image_1665868034201_0.png)
+	- ## Distribution model
+		- Peer to peer model
+		  ![image.png](../assets/image_1665868360880_0.png)
+		- Centralized model
+		  ![image.png](../assets/image_1665868541286_0.png)
+		- Pull Request Model
+		  ![image.png](../assets/image_1665868923064_0.png)
+		- Dictator and Lieutenants Mode
+		  ![image.png](../assets/image_1665869345448_0.png)
+		-
+	- ## Branching Model
+		- Stable branch
+			- each commit is a stable version of the software
+			- every commit compile, pasted the test and so on
+			- the code is working
+		- Unstable Branch
+			- each commit in the branch might be working or it might be broken
+		- The integration branch
+		- The release branch
+		- The feature branch or topic branch
+		- The hotfix branch
+		-
+		-
+	- ## Constraints
+		- rebase, do not merge / merge, do not rebase
+		- only developer x ca do y on branch z
+		- Do not push to a red build. Here, we can use HOOK in order to add this constraint
+		- Squash a feature to a single commit before you merge it to master
+	- ## Example of work flow
+		- ![image.png](../assets/image_1665871455369_0.png)
+		-
+- # References
+	- ![Pro Git](../assets/progit_1665863282544_0.pdf)
+	-
