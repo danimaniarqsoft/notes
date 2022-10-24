@@ -1,56 +1,56 @@
 [{:block/name "../assets/2020-scrum-guide-us_1647425997349_0.pdf",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "../assets/desde-la-nube_1647331992500_0.pdf",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729874,
+  :block/updated-at 1666311729874}
  {:block/name
   "../assets/java6-certification-guide_1647208784257_0.pdf",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "../assets/java8-interview_1647133326989_0.pdf",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name
   "../assets/lineamientos_f003_pronaces_-_unknown_1644096873443_0.pdf",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "../assets/progit_1665863282544_0.pdf",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "a",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "accesos",
   :block/created-at 1662156654944,
   :block/updated-at 1662156698926}
  {:block/name "accesos miic",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "actividades",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "agile",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "alternativas para logseq",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "analytics",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "antencion-integral",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "análisis de damcad",
   :block/created-at 1665685501466,
   :block/updated-at 1665685540795}
  {:block/name "apache kafka",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "api gobernance",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "apr 11th, 2022",
   :block/created-at 1649635200000,
   :block/updated-at 1649635200000}
@@ -91,11 +91,11 @@
   :block/created-at 1649376000000,
   :block/updated-at 1649376000000}
  {:block/name "arche",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "arquitectura de software",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729879,
+  :block/updated-at 1666311729879}
  {:block/name "aug 11th, 2022",
   :block/created-at 1660176000000,
   :block/updated-at 1660176000000}
@@ -157,101 +157,101 @@
   :block/created-at 1660003200000,
   :block/updated-at 1660003200000}
  {:block/name "b",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "bpmn",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "c",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "calculo",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "card",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "checkpoint",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "clean architecture",
   :block/created-at 1665897648443,
   :block/updated-at 1665960161653}
  {:block/name "code generation",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "comando",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "comandos linux",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "comprimir",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "conacyt",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "contents",
   :block/created-at 1644083660254,
   :block/updated-at 1644091825777}
  {:block/name "crip",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "damcad",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "databases",
   :block/created-at 1664996308425,
   :block/updated-at 1664996308464}
  {:block/name "declaracion",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "delegation-poker",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "diagrama de estado",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "distri",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "distribu",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "doing",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729872,
+  :block/updated-at 1666311729872}
  {:block/name "done",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "draws",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "draws/2022-02-05-14-10-43.excalidraw",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "draws/2022-10-16-14-31-22.excalidraw",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "ejs template engine",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "entrevista",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "entrevistas",
-  :block/created-at 1666036950519,
-  :block/updated-at 1666036950519}
+  :block/created-at 1666311729883,
+  :block/updated-at 1666311729883}
  {:block/name "espiritualidad",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "f003",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "favorites",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644624857269,
   :block/updated-at 1644624884292}
@@ -292,8 +292,8 @@
   :block/created-at 1644467341024,
   :block/updated-at 1644471636520}
  {:block/name "firma digital",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "gesi",
   :block/created-at 1663865333657,
   :block/updated-at 1663865333657}
@@ -301,51 +301,51 @@
   :block/created-at 1665651272983,
   :block/updated-at 1665871455998}
  {:block/name "google",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "guia de estudio para java",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729872,
+  :block/updated-at 1666311729872}
  {:block/name "gulp",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "guía para desarrollar componentes en vuejs",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "hisotrias de usuario",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729872,
+  :block/updated-at 1666311729872}
  {:block/name "historias de usuario",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "hls__2020-scrum-guide-us_1647425997349_0",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name
   "hls__lineamientos_f003_pronaces_-_unknown_1644096873443_0",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "hls__progit_1665863282544_0",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "hugo",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "hábitos",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "ilustraciones gratis",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "in-progress",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "inception",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "ingles",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "java",
   :block/created-at 1650015819434,
   :block/updated-at 1650017082275}
@@ -356,14 +356,14 @@
   :block/created-at 1650017091977,
   :block/updated-at 1650017139059}
  {:block/name "java-version",
-  :block/created-at 1666036950519,
-  :block/updated-at 1666036950519}
+  :block/created-at 1666311729883,
+  :block/updated-at 1666311729883}
  {:block/name "jdbc",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "jhipster",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729874,
+  :block/updated-at 1666311729874}
  {:block/name "jul 11th, 2022",
   :block/created-at 1657497600000,
   :block/updated-at 1657497600000}
@@ -485,38 +485,38 @@
   :block/created-at 1654788403145,
   :block/updated-at 1654788515398}
  {:block/name "jvm",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "keyboard",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "kibana",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "later",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "lecturas",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "lineamientos de desarrollo",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "lineamientos java",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "linux",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "loading",
-  :block/created-at 1666036950506,
-  :block/updated-at 1666036950506}
+  :block/created-at 1666311729864,
+  :block/updated-at 1666311729864}
  {:block/name "log",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "manga",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "mar 10th, 2022",
   :block/created-at 1646942921864,
   :block/updated-at 1646955388031}
@@ -560,8 +560,8 @@
   :block/created-at 1647329991027,
   :block/updated-at 1647330361028}
  {:block/name "mastodon",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "may 14th, 2022",
   :block/created-at 1652486400000,
   :block/updated-at 1652486400000}
@@ -623,50 +623,50 @@
   :block/created-at 1652054400000,
   :block/updated-at 1652054400000}
  {:block/name "mepiss",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "meta-object facility",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "microservices",
   :block/created-at 1665939942523,
   :block/updated-at 1665951575377}
  {:block/name "migración de sistemas",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "model-driven-engineering",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "mongodb",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "monitoreo",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "monitoring",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "naming conventions",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "naming conventions for json",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "now",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "npm",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "nvm",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "oauth 2.0",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "object management group",
-  :block/created-at 1666036950519,
-  :block/updated-at 1666036950519}
+  :block/created-at 1666311729883,
+  :block/updated-at 1666311729883}
  {:block/name "oct 10th, 2022",
   :block/created-at 1665360000000,
   :block/updated-at 1665360000000}
@@ -685,6 +685,9 @@
  {:block/name "oct 17th, 2022",
   :block/created-at 1665964800000,
   :block/updated-at 1665964800000}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666224000000,
+  :block/updated-at 1666224000000}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664755200000,
   :block/updated-at 1664755200000}
@@ -695,161 +698,161 @@
   :block/created-at 1665733140500,
   :block/updated-at 1665733140500}
  {:block/name "openapi",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "operacion de ciencia de fronteras",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "oracle",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "panel de seguimiento",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "panel seguimietno",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "pass",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "plan",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "plan general para los proyectos estrategicos",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "practicas ágiles",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "procesos",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "product owner",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "proyecto",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729879,
+  :block/updated-at 1666311729879}
  {:block/name "proyecto alisa",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "proyecto comunidad comimsa",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "proyecto distribución de becas",
   :block/created-at 1646137057782,
   :block/updated-at 1657685147430}
  {:block/name "proyecto practicopedia",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "proyecto rizoma",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "proyecto salsa",
   :block/created-at 1653434553542,
   :block/updated-at 1653434582092}
  {:block/name "proyecto sni",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "prácticas",
   :block/created-at 1664844225794,
   :block/updated-at 1664844266497}
  {:block/name "query",
-  :block/created-at 1666036950506,
-  :block/updated-at 1666036950506}
+  :block/created-at 1666311729864,
+  :block/updated-at 1666311729864}
  {:block/name "querydsl",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "querymethod",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "quotes",
   :block/created-at 1665901270352,
   :block/updated-at 1665948270299}
  {:block/name "reactive",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "reactive streams",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "recursos web",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "redacción",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "release plan",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "reporteador para salsa",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "reporting tools",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "repository",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "responsabilidades",
-  :block/created-at 1666036950519,
-  :block/updated-at 1666036950519}
+  :block/created-at 1666311729883,
+  :block/updated-at 1666311729883}
  {:block/name "rizoma",
-  :block/created-at 1666036950512,
-  :block/updated-at 1666036950512}
+  :block/created-at 1666311729872,
+  :block/updated-at 1666311729872}
  {:block/name "roadmap",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "salario",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "sat",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "scrum",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "seguimiento arquitectura",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "seguimiento becas",
   :block/created-at 1665006325034,
   :block/updated-at 1665007896614}
  {:block/name "seguimiento crip",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "seguimiento cvu",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "seguimiento damcad",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729868,
+  :block/updated-at 1666311729868}
  {:block/name "seguimiento dirección crip",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "seguimiento investigadoras e investigadores por méxico",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "seguimiento reniecyt",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729881,
+  :block/updated-at 1666311729881}
  {:block/name "seguimiento rizoma",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "seguimiento salsa registro",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "seguimiento sni",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "seguimiento snp",
-  :block/created-at 1666036950519,
-  :block/updated-at 1666036950519}
+  :block/created-at 1666311729883,
+  :block/updated-at 1666311729883}
  {:block/name "segumiento salsa peo",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "seguridad",
-  :block/created-at 1666036950518,
-  :block/updated-at 1666036950518}
+  :block/created-at 1666311729882,
+  :block/updated-at 1666311729882}
  {:block/name "sep 19th, 2022",
   :block/created-at 1663545600000,
   :block/updated-at 1663545600000}
@@ -887,62 +890,62 @@
   :block/created-at 1662595200000,
   :block/updated-at 1662595200000}
  {:block/name "sep y rizoma",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729871,
+  :block/updated-at 1666311729871}
  {:block/name "shortcuts",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "sitios para ver  manga",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "sni",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "software architecture",
   :block/created-at 1665953186491,
   :block/updated-at 1665953206704}
  {:block/name "spring security",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "streams",
-  :block/created-at 1666036950511,
-  :block/updated-at 1666036950511}
+  :block/created-at 1666311729870,
+  :block/updated-at 1666311729870}
  {:block/name "system-design",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "talento",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "tareas comúnes en git",
   :block/created-at 1653841673046,
   :block/updated-at 1653842555989}
  {:block/name "tareas comúnes mongodb",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "tareas comúnes spring data reactive mongodb",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "tareas comúnes spring reactive",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729868,
+  :block/updated-at 1666311729868}
  {:block/name "tares comúnes yeoman",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "technology trends",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729874,
+  :block/updated-at 1666311729874}
  {:block/name "teclear",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "tecnologia",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729873,
+  :block/updated-at 1666311729873}
  {:block/name "tendecias",
-  :block/created-at 1666036950513,
-  :block/updated-at 1666036950513}
+  :block/created-at 1666311729874,
+  :block/updated-at 1666311729874}
  {:block/name "teoría de grafos",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729867,
+  :block/updated-at 1666311729867}
  {:block/name "todo",
   :block/created-at 1652993939281,
   :block/updated-at 1654571793678}
@@ -950,50 +953,50 @@
   :block/created-at 1665940585188,
   :block/updated-at 1665941539435}
  {:block/name "trends",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729876,
+  :block/updated-at 1666311729876}
  {:block/name "tunning",
-  :block/created-at 1666036950509,
-  :block/updated-at 1666036950509}
+  :block/created-at 1666311729868,
+  :block/updated-at 1666311729868}
  {:block/name "tutoriales de java",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "typing",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "ubuntu",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "update",
   :block/created-at 1657386689402,
   :block/updated-at 1657386891659}
  {:block/name "upgrade",
-  :block/created-at 1666036950508,
-  :block/updated-at 1666036950508}
+  :block/created-at 1666311729866,
+  :block/updated-at 1666311729866}
  {:block/name "vs code shortcuts",
   :block/created-at 1644084185211,
   :block/updated-at 1644084187101}
  {:block/name "vscode",
-  :block/created-at 1666036950507,
-  :block/updated-at 1666036950507}
+  :block/created-at 1666311729865,
+  :block/updated-at 1666311729865}
  {:block/name "vuejs",
-  :block/created-at 1666036950514,
-  :block/updated-at 1666036950514}
+  :block/created-at 1666311729875,
+  :block/updated-at 1666311729875}
  {:block/name "vuejs charts",
-  :block/created-at 1666036950515,
-  :block/updated-at 1666036950515}
+  :block/created-at 1666311729877,
+  :block/updated-at 1666311729877}
  {:block/name "vuejs store",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729878,
+  :block/updated-at 1666311729878}
  {:block/name "vuejs-components",
-  :block/created-at 1666036950516,
-  :block/updated-at 1666036950516}
+  :block/created-at 1666311729879,
+  :block/updated-at 1666311729879}
  {:block/name "vuextore",
-  :block/created-at 1666036950510,
-  :block/updated-at 1666036950510}
+  :block/created-at 1666311729869,
+  :block/updated-at 1666311729869}
  {:block/name "wait",
-  :block/created-at 1666036950517,
-  :block/updated-at 1666036950517}
+  :block/created-at 1666311729880,
+  :block/updated-at 1666311729880}
  {:block/name "waiting",
-  :block/created-at 1666036950507, 
-  :block/updated-at 1666036950507}]
+  :block/created-at 1666311729865, 
+  :block/updated-at 1666311729865}]
