@@ -4,5 +4,8 @@
 	  sudo apt upgrade
 	  ```
 - how to copy entire folder? #copy
-	- `cp -r dir/path/ dir/path/destiny`
+	- ```
+	  sh cp -r copy/folder/ in/folder/```
+	-
+	-
 	-
