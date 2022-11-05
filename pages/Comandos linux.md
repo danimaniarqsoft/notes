@@ -9,7 +9,6 @@
 	  ```
 - locate
 	- ```sh
-	  
+	  locate wordToFind
 	  ```
-	-
 	-
