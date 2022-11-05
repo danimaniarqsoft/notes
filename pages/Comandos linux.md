@@ -1,3 +1,3 @@
-- actualizar sistema operativo ubuntu
-	- sudo apt-get update
-	- sudo apt-get upgrade
+- how to update ubuntu #update
+	- sudo apt update
+	- sudo apt upgrade
