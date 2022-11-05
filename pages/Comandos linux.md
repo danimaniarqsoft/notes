@@ -7,6 +7,7 @@
 	- ```sh 
 	  cp -r copy/folder/ in/folder/
 	  ```
+- locate
 	-
 	-
 	-
