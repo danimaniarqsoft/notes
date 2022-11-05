@@ -1,3 +1,7 @@
-- how to update ubuntu #update
-	- sudo apt update
-	- sudo apt upgrade
+- how to update ubuntu? #update
+	- ```sh
+	  sudo apt update
+	  sudo 
+	  ```
+	- `sudo apt upgrade`
+	-
