@@ -22,5 +22,8 @@
 	  ```
 - how to test DNS Name resolution #dns
 	- ```sh
+	  nslookup google.com
+	  host google.com
+	  nslookup 242.112.2.1
 	  
 	  ```
