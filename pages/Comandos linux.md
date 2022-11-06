@@ -20,4 +20,5 @@
 		- ```sh
 		  tar -zcvf archive-name.tar.gz source-directory-name
 		  ```
-		-
+- rsync
+	-
