@@ -16,12 +16,10 @@
 	  find . -name "*logo*.svg"
 	  ```
 - tar
-	- for backup #backup
-		- ```sh
-		  tar -zcvf archive-name.tar.gz source-directory-name
-		  ```
+	- ```sh
+	  tar -zcvf archive-name.tar.gz source-directory-name
+	  ```
 - rsync
 	- ```sh
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
--
