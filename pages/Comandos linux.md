@@ -24,3 +24,4 @@
 	- ```sh
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
+-
