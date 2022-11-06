@@ -21,4 +21,6 @@
 		  tar -zcvf archive-name.tar.gz source-directory-name
 		  ```
 - rsync
-	-
+	- ```sh
+	  rsync -ravz --partial /from/folder /to/destiny/
+	  ```
