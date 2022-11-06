@@ -22,8 +22,11 @@
 	  ```
 - how to test DNS Name resolution #dns
 	- ```sh
+	  # forward lookup
 	  nslookup google.com
 	  host google.com
-	  nslookup 242.112.2.1
 	  
+	  # reverse lookup
+	  nslookup 242.112.2.1
+	  host 242.112.2.1
 	  ```
