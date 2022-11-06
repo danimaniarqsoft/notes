@@ -20,4 +20,7 @@
 	  tar -zcvf archive-name.tar.gz source-directory-name
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
--
+- how to test DNS Name resolution #dns
+	- ```sh
+	  
+	  ```
