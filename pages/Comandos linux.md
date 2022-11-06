@@ -13,5 +13,8 @@
 	  ```
 - find
 	- ```sh
-	  ````
-	-
+	  find . -name "*logo*.svg"
+	  ```
+- tar
+	- for backup
+		-
