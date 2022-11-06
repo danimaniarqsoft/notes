@@ -21,7 +21,8 @@
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
 - how to test DNS Name resolution #dns
-	- ```sh
+	- [Testing DNS Name Resolution](https://wiki.samba.org/index.php/Testing_the_DNS_Name_Resolution#:~:text=To%20verify%20that%20your%20DNS,available%20on%20Linux%20and%20Windows.) 
+	  ```sh
 	  # forward lookup
 	  nslookup google.com
 	  host google.com
