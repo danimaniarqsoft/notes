@@ -32,4 +32,4 @@
 	  host [IP ADDRESS]
 	  ```
 - how to test if port is open #port-test
-	- `telnet [IP ADDRESS ] [PORT]`
+	- `telnet [IP ADDRESS | DOMAIN NAME] [PORT]`
