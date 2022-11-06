@@ -31,3 +31,5 @@
 	  nslookup [IP ADDRESS]
 	  host [IP ADDRESS]
 	  ```
+- how to test if port is open #port-test
+	- `telnet IP`
