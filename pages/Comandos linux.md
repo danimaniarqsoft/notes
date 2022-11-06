@@ -16,5 +16,8 @@
 	  find . -name "*logo*.svg"
 	  ```
 - tar
-	- for backup
+	- for backup #backup
+		- ```sh
+		  tar -zcvf archive-name.tar.gz source-directory-name
+		  ```
 		-
