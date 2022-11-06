@@ -11,7 +11,7 @@
 	- ```sh
 	  locate wordToFind
 	  ```
-- find
+- how to find files
 	- ```sh
 	  find . -name "*logo*.svg"
 	  ```
