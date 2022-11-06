@@ -11,4 +11,7 @@
 	- ```sh
 	  locate wordToFind
 	  ```
+- find
+	- ```sh
+	  ````
 	-
