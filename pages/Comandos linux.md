@@ -11,15 +11,12 @@
 	- ```sh
 	  locate wordToFind
 	  ```
-- how to find files
+- how to find files #find
 	- ```sh
 	  find . -name "*logo*.svg"
 	  ```
-- tar
+- how to create a backup #backup
 	- ```sh
 	  tar -zcvf archive-name.tar.gz source-directory-name
-	  ```
-- rsync
-	- ```sh
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
