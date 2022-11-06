@@ -27,6 +27,6 @@
 	  host google.com
 	  
 	  # reverse lookup
-	  nslookup 242.112.2.1
-	  host 242.112.2.1
+	  nslookup [IP ADDRESS]
+	  host [IP ADDRESS]
 	  ```
