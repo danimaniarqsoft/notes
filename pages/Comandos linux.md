@@ -17,7 +17,10 @@
 	  ```
 - how to create a backup #backup
 	- ```sh
+	  #compress
 	  tar -zcvf archive-name.tar.gz source-directory-name
+	  #uncompress
+	  tar -xvf
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
 - how to test DNS Name resolution #dns
