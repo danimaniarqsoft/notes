@@ -45,6 +45,6 @@
 - how to see trace route #tracerouce #tracepath #mtr
 	- `traceroute`
 	  `mtr`
-	- > times over 150 ms into the united state
+	- > times over 150 ms into the united states area considered long. But over de ocean area considered normal.
 - how to test the network speed #speedtest-cli
 	- `speedtest-cli`
