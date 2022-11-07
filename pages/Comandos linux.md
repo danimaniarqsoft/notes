@@ -43,6 +43,8 @@
 - how to delete files in a secured way #shred #delete-files
 	- `shred -vzu -n5 [[FILE-NAME]]`
 - how to see trace route #tracerouce #tracepath #mtr
-	-
+	- `traceroute`
+	  `mtr`
+	- > times over 150 ms into the united state
 - how to test the network speed #speedtest-cli
 	- `speedtest-cli`
