@@ -36,4 +36,5 @@
 - how to display connected devices #nmap
 	- `sudo nmap -sn 123.23.4.0/24`
 - how to delete files in a secured way #shred #delete-files
-	- `shred -vzu -n5 FILE`
+	- `shred -vzu -n5 [[FILE-NAME]]`
+	-
