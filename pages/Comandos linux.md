@@ -15,12 +15,14 @@
 	- ```sh
 	  find . -name "*logo*.svg"
 	  ```
-- how to create a backup #backup
+- how to create a backup #backup #rsync #tar
 	- ```sh
 	  #compress
 	  tar -zcvf archive-name.tar.gz source-directory-name
 	  #uncompress
-	  tar -xvf
+	  tar -xvzf archive-name.tar.gz
+	  
+	  # with rsync
 	  rsync -ravzp --partial /from/folder /to/destiny/
 	  ```
 - how to test DNS Name resolution #dns
