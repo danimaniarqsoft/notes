@@ -34,4 +34,4 @@
 - how to test if port is open #port-test
 	- `telnet [IP ADDRESS | DOMAIN NAME] [PORT]`
 - how to display connected deviced #nmap
-	-
+	- `sudo nmap -sn 123.23.4.0/24`
