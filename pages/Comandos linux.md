@@ -46,5 +46,6 @@
 	- `traceroute`
 	  `mtr`
 	- > times over 150 ms into the united states area considered long. But over de ocean area considered normal.
+	- > **RTT**: Round Trip Time
 - how to test the network speed #speedtest-cli
 	- `speedtest-cli`
