@@ -43,5 +43,6 @@
 - how to delete files in a secured way #shred #delete-files
 	- `shred -vzu -n5 [[FILE-NAME]]`
 - how to see trace route #tracerouce #tracepath #mtr
-- how to test the network speed #speedtest-cli
 	-
+- how to test the network speed #speedtest-cli
+	- `speedtest-cli`
