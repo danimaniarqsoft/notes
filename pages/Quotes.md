@@ -3,3 +3,4 @@
 	- The architecture should scream the intent of the system
 	  id:: 634c5a5e-1873-4e56-92ff-7de21f924ef3
 - Melly shum
+	- if your best experiences in life are all vacations, then maybe you shouldn't return to work tomorrow
