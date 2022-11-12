@@ -1,6 +1,7 @@
 - definición
 	- ![image.png](../assets/image_1668283821107_0.png)
 	- **Creative workers**, is the new word for  knowledge workers, are workers whose main capital is knowlege. Creative workers work in networks no in hierarchies and work in a **cretive economy** #concept
+	- Complexity thinker applies bot: insi
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
