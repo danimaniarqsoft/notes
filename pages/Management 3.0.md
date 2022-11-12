@@ -10,6 +10,8 @@
 	- > The principles rarely change, but practices always depend on context
 	- > Management practice is a good practice when:
 	  1. it engages people and their interactions
+	  2. It enables them to improve the system
+	  3. It helps to delight all clients
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
