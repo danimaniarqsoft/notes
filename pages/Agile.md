@@ -3,4 +3,4 @@
 - Delegation boards and delegation poker
 - value stories and culture books
 - exploration days and internal crowdfunding
--
+- business guilds and corporate huddles
