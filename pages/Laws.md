@@ -1,3 +1,4 @@
 - The Melvin Conway #law
 	- Organizations, who design systems, are constrained to produce designs which are copies of the communication structures of these organizations
-- The
+- The law of requisite variety
+	- If a system is to be stable, the
