@@ -11,9 +11,11 @@
 	- exploration days and internal crowdfunding
 - share knowlege, tools, and practices
 	- business guilds and corporate huddles
-- feedback wraps and unlimited vacation
-- metrics ecosystem and scoreboard index
-- merit money
+- learn how to offer constructive feedback
+	- feedback wraps and unlimited vacation
+- measure performace the right way
+	- metrics ecosystem and scoreboard index
+- pay people according to therimerit money
 - moving motivators
 - happiness door
 -
