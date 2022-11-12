@@ -8,7 +8,8 @@
 	- change the word control by lead, coach, inspire, motivate, constrain, govern and help
 	- >whit a complex system there is no such thing as central control
 	- > The principles rarely change, but practices always depend on context
-	-
+	- > Management practice is a good practice when:
+	  1. it engages people and their interactions
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
