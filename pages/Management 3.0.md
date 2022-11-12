@@ -5,6 +5,8 @@
 	- **Complexity thinker** applies bot: insights from scientific research into complex systems and understanding of the workings of social systems #concept
 	- > The ((63700238-f5a3-4647-b5f7-a57fba0be852)) is as important to managers as the laws of relativity are to physicists
 	- change the word control by lead, coach, inspire, motivate, constrain, govern and help
+	- >whit a complex system there is no such thing as central control
+	-
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
