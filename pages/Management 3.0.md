@@ -2,7 +2,7 @@
 	- ![image.png](../assets/image_1668283821107_0.png)
 	- **Creative workers**, is the new word for  knowledge workers, are workers whose main capital is knowlege. Creative workers work in networks no in hierarchies and work in a **cretive economy** #concept
 	- **Systems thinking** represents the process of understanding how human systems (including people, teams, and organizations) behave, interact with their envoronment, and influence each other #concept
-		- >system thinking ais the parents of agile, lean, scrum, kanban, beyond budgeting, lean startup, delivering happiness, design thinking, real aptions, escenario planning, conscious capitalism, etc.
+		- >**system thinking** and **complexity theory** area the parents of agile, lean, scrum, kanban, beyond budgeting, lean startup, delivering happiness, design thinking, real aptions, escenario planning, conscious capitalism, etc.
 	- **Complexity thinker** applies bot: insights from scientific research into complex systems and understanding of the workings of social systems #concept
 	- > The ((63700238-f5a3-4647-b5f7-a57fba0be852)) is as important to managers as the laws of relativity are to physicists
 	- change the word control by lead, coach, inspire, motivate, constrain, govern and help
