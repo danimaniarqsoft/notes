@@ -1,1 +1,6 @@
 - Kudo box and kudo cards
+- Personal maps
+- Delegation boards and delegation poker
+- value stories and culture books
+- exploration days and internal crowdfunding
+-
