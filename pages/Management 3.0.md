@@ -7,6 +7,7 @@
 	- > The ((63700238-f5a3-4647-b5f7-a57fba0be852)) is as important to managers as the laws of relativity are to physicists
 	- change the word control by lead, coach, inspire, motivate, constrain, govern and help
 	- >whit a complex system there is no such thing as central control
+	- > The principles rarely change, but practices always depend on context
 	-
 - Motivate people with better rewards
 	- Kudo box and kudo cards
