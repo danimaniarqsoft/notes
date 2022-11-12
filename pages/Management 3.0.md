@@ -4,7 +4,7 @@
 	- **Systems thingking** represents the process of understanding how human systems (including people, teams, and organizations) behave, interact with their envoronment, and influence each other #concept
 	- **Complexity thinker** applies bot: insights from scientific research into complex systems and understanding of the workings of social systems #concept
 	- > The ((63700238-f5a3-4647-b5f7-a57fba0be852)) is as important to managers as the laws of relativity are to physicists
-	-
+	- change the word control by lead, coach, inspire, motivate, constrain, govern and help
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
