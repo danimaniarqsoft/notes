@@ -1,10 +1,14 @@
 - management 3.0
 - Motivate people with better rewards
 	- Kudo box and kudo cards
-- Personal maps
-- Delegation boards and delegation poker
-- value stories and culture books
-- exploration days and internal crowdfunding
+- improve communication and understanding
+	- Personal maps
+- empower workers with clear boundaries
+	- Delegation boards and delegation poker
+- define the culture by sharing stories
+	- value stories and culture books
+- make time for exploration and self education
+	- exploration days and internal crowdfunding
 - business guilds and corporate huddles
 - feedback wraps and unlimited vacation
 - metrics ecosystem and scoreboard index
