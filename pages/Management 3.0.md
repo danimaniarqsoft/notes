@@ -1,5 +1,5 @@
 - management 3.0
-	- `knowledge workers`, are workers whose main capital is knowlege
+	- **knowledge workers**, are workers whose main capital is knowlege
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
