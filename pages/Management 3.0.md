@@ -1,6 +1,6 @@
 - management 3.0
 	- **Creative workers**, is the new word for  knowledge workers, are workers whose main capital is knowlege. Creative workers work in networks no in hierarchies and work in a **cretive economy**
-	- Management 1
+	- ![image.png](../assets/image_1668283712183_0.png) Management 1
 - Motivate people with better rewards
 	- Kudo box and kudo cards
 - improve communication and understanding
