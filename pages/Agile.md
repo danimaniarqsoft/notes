@@ -15,7 +15,10 @@
 	- feedback wraps and unlimited vacation
 - measure performace the right way
 	- metrics ecosystem and scoreboard index
-- pay people according to therimerit money
-- moving motivators
-- happiness door
+- pay people according to their merits
+	- merit money
+- discover real engagement of workers
+	- moving motivators
+- aim for a happier organization
+	- happiness door
 -
