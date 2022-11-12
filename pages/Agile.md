@@ -21,4 +21,7 @@
 	- moving motivators
 - aim for a happier organization
 	- happiness door
--
+- never stop experimenting
+	- conclusion
+- learn from successes and failures
+	- questions and celebration grids
