@@ -1,7 +1,7 @@
 - definición
 	- ![image.png](../assets/image_1668283821107_0.png)
 	- **Creative workers**, is the new word for  knowledge workers, are workers whose main capital is knowlege. Creative workers work in networks no in hierarchies and work in a **cretive economy** #concept
-	- **Systems thingking** represents the process of understanding how human systems (including people, teams, and organizations) behave, inre
+	- **Systems thingking** represents the process of understanding how human systems (including people, teams, and organizations) behave, interact with their envoronment, and influence each other #concept
 	- **Complexity thinker** applies bot: insights from scientific research into complex systems and understanding of the workings of social systems #concept
 - Motivate people with better rewards
 	- Kudo box and kudo cards
