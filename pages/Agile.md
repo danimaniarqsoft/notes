@@ -7,9 +7,10 @@
 	- Delegation boards and delegation poker
 - define the culture by sharing stories
 	- value stories and culture books
-- make time for exploration and self education
+- make time for exploration and self-education
 	- exploration days and internal crowdfunding
-- business guilds and corporate huddles
+- share knowlege, tools, and practices
+	- business guilds and corporate huddles
 - feedback wraps and unlimited vacation
 - metrics ecosystem and scoreboard index
 - merit money
