@@ -1,0 +1,28 @@
+- management 3.0
+	- knowledge workers, are workers
+- Motivate people with better rewards
+	- Kudo box and kudo cards
+- improve communication and understanding
+	- Personal maps
+- empower workers with clear boundaries
+	- Delegation boards and delegation poker
+- define the culture by sharing stories
+	- value stories and culture books
+- make time for exploration and self-education
+	- exploration days and internal crowdfunding
+- share knowlege, tools, and practices
+	- business guilds and corporate huddles
+- learn how to offer constructive feedback
+	- feedback wraps and unlimited vacation
+- measure performace the right way
+	- metrics ecosystem and scoreboard index
+- pay people according to their merits
+	- merit money
+- discover real engagement of workers
+	- moving motivators
+- aim for a happier organization
+	- happiness door
+- never stop experimenting
+	- conclusion
+- learn from successes and failures
+	- questions and celebration grids
