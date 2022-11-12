@@ -1,4 +1,6 @@
-- Kudo box and kudo cards
+- management 3.0
+- Motivate people with better rewards
+	- Kudo box and kudo cards
 - Personal maps
 - Delegation boards and delegation poker
 - value stories and culture books
@@ -9,3 +11,4 @@
 - merit money
 - moving motivators
 - happiness door
+-
