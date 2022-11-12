@@ -4,4 +4,8 @@
 - value stories and culture books
 - exploration days and internal crowdfunding
 - business guilds and corporate huddles
--
+- feedback wraps and unlimited vacation
+- metrics ecosystem and scoreboard index
+- merit money
+- moving motivators
+- happiness door
