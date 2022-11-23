@@ -1,0 +1,5 @@
+- Preparar entrevista para java 8 ![java8-interview.pdf](../assets/java8-interview_1647133326989_0.pdf) #entrevista
+- [Interviewbit](https://www.interviewbit.com/java-8-interview-questions/) #entrevistas
+- [50 questions to crack java programmming inteview](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/) #entrevista
+- [Java Design Patterns Interview Questions](https://www.java67.com/2012/09/top-10-java-design-pattern-interview-question-answer.html)
+-
