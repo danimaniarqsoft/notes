@@ -1,7 +1,7 @@
-- Uncle Bob #quote
+- Uncle Bob
 	- The first concern of the architect is to make sure that the house is usable, it is not to ensure that the house is made of brick
 	- The architecture should scream the intent of the system
-- Melly shum #quote
+- Melly shum
 	- if your best experiences in life are all vacations, then maybe you shouldn't return to work tomorrow
 - Nic Fleming
-	- "The Bonus Myth" It may come as a shock to many to learn that a large and growing body of evidence suggests that in many circumstances, paying for results can actually make people perform badly, and that the more you pay, the worse they perform. #quote
+	- "The Bonus Myth" It may come as a shock to many to learn that a large and growing body of evidence suggests that in many circumstances, paying for results can actually make people perform badly, and that the more you pay, the worse they perform
