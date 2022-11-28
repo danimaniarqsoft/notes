@@ -1,4 +1,5 @@
 - Scrum was developed in the early of 1990
+- The first version of the scrum gruide in 2010
 -
 - [Scrum scale](https://www.scrumatscale.com/scrum-at-scale-guide-online/)
 -
