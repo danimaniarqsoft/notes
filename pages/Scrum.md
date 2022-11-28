@@ -1,3 +1,5 @@
+- Scrum was developed in the early of 1990
+-
 - [Scrum scale](https://www.scrumatscale.com/scrum-at-scale-guide-online/)
 -
 - Prácticas
