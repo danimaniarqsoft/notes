@@ -1,3 +1,5 @@
 - [Byte byte go, for system design interview](https://bytebytego.com/)
+- references
+	- [System design tutorial](https://www.geeksforgeeks.org/system-design-tutorial/)
 - Scalability
 	- Single server design
