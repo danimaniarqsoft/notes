@@ -1,3 +1,5 @@
 - Install virtual box
 	- sudo apt update
 	- sudo apt install virtualbox
+- Install Vagrant
+	- sudo apt install vagrant
