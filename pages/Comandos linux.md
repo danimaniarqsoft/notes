@@ -42,7 +42,7 @@
 	- `sudo nmap -sn 123.23.4.0/24`
 - how to delete files in a secured way #shred #delete-files
 	- `shred -vzu -n5 [[FILE-NAME]]`
-- how to see trace route #tracerouce #tracepath #mtr
+- how to see trace route #tracerouce #tracepath #mtr #network
 	- `traceroute`
 	  `mtr`
 	- > times over 150 ms into the united states area considered long. But over de ocean area considered normal.
