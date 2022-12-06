@@ -1,2 +1,3 @@
 - how to inspect a container
+	- `docker container exec -it nginx bash`
 	-
