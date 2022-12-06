@@ -1,0 +1,2 @@
+- Notations for business rules
+	- [OMG - Semantics of Business Vocabulary and Business Rules](https://www.omg.org/spec/SBVR/1.4/PDF)
