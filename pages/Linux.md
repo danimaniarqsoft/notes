@@ -1,2 +1,3 @@
 - ![Linux Basics for Hackers.pdf](../assets/Linux_Basics_for_Hackers_1670050829250_0.pdf)
 - How to install [[Vagrant]]
+- [How to run a script in startup](https://www.baeldung.com/linux/run-script-on-startup)
