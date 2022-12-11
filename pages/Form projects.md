@@ -3,5 +3,7 @@
 	- [Documentation](https://help.form.io/)
 	- Source code
 		- [API Documentation](https://apidocs.form.io/)
+		- [Base source code](https://github.com/formio/formio)
+		- [Vue render](https://github.com/formio/vue)
 		-
 	-
