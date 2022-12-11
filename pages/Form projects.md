@@ -1,5 +1,5 @@
 - Form.io
 	- [Sitio oficial](https://www.form.io/)
 	- [Documentation](https://help.form.io/)
-	- [API Documentation](https://help.form.io/developers/api-documentation)
+	- [API Documentation](https://apidocs.form.io/)
 	-
