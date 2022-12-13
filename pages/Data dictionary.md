@@ -1,2 +1,4 @@
 - Tools
 	- [DBSchema](https://dbschema.com/2022/12/12/releases/9.2.0/)
+- How to document a database
+	- [From Dataedo](https://dataedo.com/blog/different-types-of-tools-you-can-use-to-document-your-database)
