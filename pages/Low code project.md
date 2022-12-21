@@ -1,0 +1,7 @@
+- ## Conceptos básicos
+- TODO registrar uno o más formularios simples
+- TODO crear un crud para una entidad genérica
+- TODO consultar formularios registrados
+- ## Conceptos avanzados
+- TODO registrar un formulario complejo con varias pestañas
+- TODO Crear un proyecto completo con varios forms
