@@ -1,3 +1,5 @@
 - Referencias
 	- [backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 	- [Why Netflix Needed to Create Failure](https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey/)
+- How to get the current user login
+	-
