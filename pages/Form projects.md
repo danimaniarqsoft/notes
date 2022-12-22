@@ -5,6 +5,7 @@
 		- [API Documentation](https://apidocs.form.io/)
 		- [Base source code](https://github.com/formio/formio)
 		- [Vue render](https://github.com/formio/vue)
-		-
+	- Commond Vuebootstrap componentes
+		- https://bootstrap-vue.org/docs/icons
 - For survey platforms
 	- [Topten](https://medevel.com/open-source-survey-tools-2/)
