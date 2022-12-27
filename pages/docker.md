@@ -1,7 +1,7 @@
 - how to inspect a container
 	- `docker container exec -it nginx bash`
 - how to inspect a network
-	- -f "{{json .NetworkSettings.Networks }}"
+	- docker inspect CONTAINER -f "{{json .NetworkSettings.Networks }}"
 - how to show all networks in a machine
 	- docker network ls
 - how to show the logs of a container
@@ -9,4 +9,3 @@
 - how to test docker port
 	- docker port CONTAINER
 	-
--
