@@ -4,4 +4,5 @@
 	- -f "{{json .NetworkSettings.Networks }}"
 - how to show all networks in a machine
 	- docker network ls
-	-
+- how to show the logs of a container
+	- docker logs CONTAINER
