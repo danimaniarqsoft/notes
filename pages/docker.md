@@ -2,4 +2,6 @@
 	- `docker container exec -it nginx bash`
 - how to inspect a network
 	- -f "{{json .NetworkSettings.Networks }}"
--
+- how to show all networks in a machine
+	- docker network ls
+	-
