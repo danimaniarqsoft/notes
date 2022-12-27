@@ -6,3 +6,6 @@
 	- docker network ls
 - how to show the logs of a container
 	- docker logs CONTAINER
+- how to test docker port
+	- docker port CONTAINER
+-
