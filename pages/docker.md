@@ -1,3 +1,5 @@
 - how to inspect a container
 	- `docker container exec -it nginx bash`
-- how to
+- how to inspect a network
+	- -f "{{json .NetworkSettings.Networks }}"
+-
