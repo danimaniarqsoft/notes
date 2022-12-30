@@ -8,4 +8,4 @@
 - Somos dueños de nuestro destino. Somos capitanes de nuestra alma
 - La persona que duda de su valor es como un hombre que se enlista en las filas del enemigo y carga las armas en contra de si mismo
 - Sólo una cosa convierte en imposible un sueño: el miedo a fracasar
-- Da una
+- Da una buena idea a un equipo mediocre y lo estropeará. Da una idea mediocre a un gran equipo y o bien la mejorará o bien encontrará una mejor.
