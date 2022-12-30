@@ -6,4 +6,6 @@
 - Nic Fleming
 	- "The Bonus Myth" It may come as a shock to many to learn that a large and growing body of evidence suggests that in many circumstances, paying for results can actually make people perform badly, and that the more you pay, the worse they perform
 - Somos dueños de nuestro destino. Somos capitanes de nuestra alma
-- La persona que duda de su valor es como un hombre que se en
+- La persona que duda de su valor es como un hombre que se enlista en las filas del enemigo y carga las armas en contra de si mismo
+- Sólo una cosa convierte en imposible un sueño: el miedo a fracasar
+- S
