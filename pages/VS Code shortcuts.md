@@ -1,1 +1,1 @@
-- Shortcuts para visual studio code
+- collaps and expand blocks in HTML
