@@ -1,1 +1,15 @@
-- Shortcuts para visual studio code
+- - Visual studio code shortcuts en [[VS Code shortcuts]] #vscode #shortcuts
+  	- toggle zen mode
+  		- `ctrl` +`K` `Z`
+  	- toggle sidebar
+  		- `ctrl` + `B`
+  	- toogle terminal
+  		- `ctrl` + `J`
+  	- rename a word
+  		- `cltrl` + `shift` + `L`
+  	- move line and blocks
+  		- `alt` + `↓`
+  		- `alt` + `↑`
+  	- navigate back and forward
+  		- `ctrl` + `alt` + `-` navigate back
+  		- `ctrl` + `shift` + `-` navigate forward
