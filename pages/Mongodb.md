@@ -1,4 +1,4 @@
-- Bes practices [Referencia](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/)
+- Bes practices [Referencia](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/) #best-practice
 - Data modelling methodology
 	- ![image.png](../assets/image_1666212707294_0.png)
 	- Workload
