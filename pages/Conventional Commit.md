@@ -1,4 +1,4 @@
-- Plantilla general
+- Plantilla general #commit #conventional-commit
 	- ```
 	  <type>[optional scope]: <description>
 	  
